@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>K-Hit Me Up</title>
+    <link rel="icon" href="{{ url_for('static', filename='K-Hit Me Up Circle.png') }}" />
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/bootstrap.min.css') }}" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css" />
+    <link rel="stylesheet" href="src/font-awesome-pro-5.15.4/css/all.min.css" />
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.8.1/font/bootstrap-icons.css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;500;600;700;800&display=swap" rel="stylesheet" />
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap" rel="stylesheet" />
+  </head>
+  <body>
+    <!-- NAVBAR -->
+    <section id="nav">
+      <nav class="navbar fixed-top navbar-expand-lg navbar-light">
+        <div class="container-fluid">
+          <a class="navbar-brand navbar-nav me-auto mb-lg-0 fw-bold" href="{{ url_for('home') }}"><img src="{{ url_for('static', filename='K-Hit Me Up Circle.png') }}" alt="logo" /></a>
+          <button class="navbar-toggler first-button" type="button" data-bs-toggle="collapse" data-bs-target="#navbarTogglerDemo01" aria-controls="navbarTogglerDemo01" aria-expanded="false" aria-label="Toggle navigation">
+            <div class="animated-icon1"><span></span><span></span><span></span></div>
+          </button>
+          <div class="collapse navbar-collapse" id="navbarTogglerDemo01">
+            <ul class="navbar-nav mb-2 ms-lg-auto mb-lg-0">
+              <li class="nav-item">
+                <a class="nav-link" href="{{ url_for('popularity') }}">Previous Years</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="{{ url_for('test') }}">Wanna Know?</a>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </nav>
+    </section>
+    <!-- END NAVBAR -->
+
+    <section class="section1 d-flex align-items-center">
+        <div class="container">
+            <div class="column text-center px-5 mx-5">
+                <h1>Sorry</h1>
+                <h3 class="pt-3">
+                  Unfortunately, we do not have any data containing the artist ({{ artist }}) 
+                  that you have mention.
+                </h3>
+                <div class="row pt-5">
+                  <div class="col col-lg-6 col-button">
+                    <a href="{{ url_for('home') }}">
+                      <button class="b-test b-home">Back To Home</button>
+                    </a>
+                  </div>
+                  <div class="col col-lg-6 col-button">
+                    <a href="{{ url_for('test') }}">
+                      <button class="b-test b-try">Try Again</button>
+                    </a>
+                  </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="footer fixed-bottom">
+        <div class="container pt-4 pb-2">
+            <div class="column">
+            <h6 class="text-center">Copyright © <script>document.write(new Date().getFullYear())</script> K-Hit Me Up. All rights reserved</h6>
+            </div>
+        </div>
+    </section>
+
+    <script src="{{ url_for('static', filename='js/bootstrap.bundle.min.js') }}"></script>
+    <script src="src/jquery-3.6.0.min.js"></script>
+  </body>
+</html>

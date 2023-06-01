@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>K-Hit Me Up</title>
+    <link rel="icon" href="{{ url_for('static', filename='K-Hit Me Up Circle.png') }}" />
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/bootstrap.min.css') }}" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css" />
+    <link rel="stylesheet" href="src/font-awesome-pro-5.15.4/css/all.min.css" />
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.8.1/font/bootstrap-icons.css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;500;600;700;800&display=swap" rel="stylesheet" />
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap" rel="stylesheet" />
+  </head>
+  <body>
+    <!-- NAVBAR -->
+    <section id="nav">
+      <nav class="navbar fixed-top navbar-expand-lg navbar-light">
+        <div class="container-fluid">
+          <a class="navbar-brand navbar-nav me-auto mb-lg-0 fw-bold" href="{{ url_for('home') }}"><img src="{{ url_for('static', filename='K-Hit Me Up Circle.png') }}" alt="logo" /></a>
+          <button class="navbar-toggler first-button" type="button" data-bs-toggle="collapse" data-bs-target="#navbarTogglerDemo01" aria-controls="navbarTogglerDemo01" aria-expanded="false" aria-label="Toggle navigation">
+            <div class="animated-icon1"><span></span><span></span><span></span></div>
+          </button>
+          <div class="collapse navbar-collapse" id="navbarTogglerDemo01">
+            <ul class="navbar-nav mb-2 ms-lg-auto mb-lg-0">
+              <li class="nav-item">
+                <a class="nav-link" href="{{ url_for('popularity') }}">Previous Years</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="{{ url_for('test') }}">Wanna Know?</a>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </nav>
+    </section>
+    <!-- END NAVBAR -->
+
+    <section class="section1 d-flex pick">
+        <div class="container">
+            <div class="column text-center">
+                <div class="row">
+                    <h4>
+                        Which Year?
+                    </h4>
+                    <form action="/popularity-picked", method="get, post" class="pb-4">
+                        <select name="year">
+                          {%for o in data%}
+                              <option value="{{ o.year }}"{% if o.year == state.data %} selected{% endif %}>
+                                {{ o.year }}
+                              </option>
+                          {%endfor%}
+                        </select>
+                        <br><br>
+                        <input type="submit" value="Submit">
+                    </form>
+                    <div class="col-2"></div>
+                    <div class="col-8">
+                      <h3>Year {{ index }}</h3>
+                      <table id="tableItem" class="col-12">
+                        <thead>
+                          <tr>
+                            <th>No</th>
+                            <th>Song Title</th>
+                            <th>Artist</th>
+                          </tr>
+                        </thead>
+                        <tbody>
+                          {% for o in range(0, length) %}
+                            <tr>
+                              <td>{{ o+1 }}</td>
+                              <td>{{ title[o] }}</td>
+                              <td>{{ artist[o] }}</td>
+                            </tr>
+                          {% endfor %}
+                        </tbody>
+                      </table>
+                    </div>
+                    <div class="col-2"></div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="footer fixed-bottom">
+        <div class="container pt-4 pb-2">
+            <div class="column">
+            <h6 class="text-center">Copyright © <script>document.write(new Date().getFullYear())</script> K-Hit Me Up. All rights reserved</h6>
+            </div>
+        </div>
+    </section>
+
+    <script src="{{ url_for('static', filename='js/bootstrap.bundle.min.js') }}"></script>
+    <script src="src/jquery-3.6.0.min.js"></script>
+  </body>
+</html>

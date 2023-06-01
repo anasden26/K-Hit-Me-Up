@@ -1,0 +1,51 @@
+,title,artist,album,uri,year,acousticness,danceability,key,energy,instrumentalness,liveness,loudness,audio_mode,speechiness,tempo,valence,duration_ms,time_signature,song_popularity
+0,Why So Serious? - Live,SHINee,SHINee WORLD Ⅲ in SEOUL - THE 3rd CONCERT ALBUM,spotify:track:0GcGDsngO9i2jR1evA7XYi,2013,0.0259,0.62,6,0.951,0.0,0.795,-3.231,1,0.106,110.039,0.357,219973,4,23
+1,Destiny - INFINITE EFFECT ADVANCE LIVE Version,INFINITE,INFINITE EFFECT ADVANCE LIVE,spotify:track:0NplB6b22gcJtGj8Qp29HM,2013,0.148,0.393,7,0.935,0.0,0.824,-4.172,1,0.142,127.882,0.231,309053,4,0
+2,Rocking,TEEN TOP,TEEN TOP CLASS,spotify:track:1su62pO1ShAp7F4JlY5vuo,2013,0.0186,0.695,7,0.976,0.0,0.11,-3.241,1,0.103,128.047,0.785,192653,4,29
+3,RAIN SOUND,B.A.P,ONE SHOT,spotify:track:7GsyzVoLxmQb0ODg3hlj1c,2013,0.0998,0.729,9,0.793,0.0,0.312,-3.893,0,0.0413,98.006,0.84,206472,4,38
+4,Want U Back,100%,Real 100%,spotify:track:7fompRcBN4XUBI1X23Btyi,2013,0.157,0.708,9,0.924,0.0,0.351,-4.082,1,0.117,129.945,0.637,198971,4,30
+5,Smoky Girl,MBLAQ,Love Beat,spotify:track:3Gr66dKQP9bH83V9UoCQSb,2013,0.0483,0.807,9,0.599,0.0,0.0759,-6.664,0,0.107,129.958,0.472,210875,4,37
+6,Very Good - Rough Version,Block B,HER,spotify:track:7EhZsAeXN6MREY0Jw65tid,2013,0.012,0.603,7,0.906,0.0,0.162,-1.971,1,0.0927,135.962,0.776,186182,4,37
+7,Gotta Talk to U,SEUNGRI,Let's Talk about Love,spotify:track:1MKzgKfl6WQLNDm9AkKFjK,2013,0.115,0.746,10,0.712,0.0,0.269,-5.447,0,0.0347,127.995,0.744,215480,4,0
+8,The Red Shoes,IU,Modern Times,spotify:track:3atsk5EWI5fNxLMIJnfYfJ,2013,0.512,0.636,6,0.922,0.0,0.0898,-2.131,1,0.211,118.065,0.371,254250,4,45
+9,No More Dream,BTS,2 Cool 4 Skool,spotify:track:4frlkLwlnm58ejpNwWjxyl,2013,0.0124,0.436,2,0.869,1.6e-06,0.494,-5.174,1,0.472,167.766,0.612,221593,4,0
+10,False Hope,Song Ji Eun,False Hope,spotify:track:1y8ishcsgXEXrVb3fg2nxq,2013,0.61,0.472,4,0.715,0.0,0.38,-4.316,0,0.0618,72.398,0.47,192746,4,0
+11,Thriller,BTOB,Thriller,spotify:track:3F5CjdUfianIVKv2LJghuH,2013,0.0445,0.689,10,0.936,0.0,0.0675,-2.382,0,0.083,125.017,0.847,207726,4,40
+12,What's your name?,4Minute,Name is 4minute,spotify:track:13xfTHyEclnBd7XAS1P5Er,2013,0.185,0.738,11,0.889,0.0,0.0661,-3.019,0,0.073,115.041,0.914,186776,4,46
+13,Incredible (feat.Quincy),XIA,INCREDIBLE,spotify:track:4evcTna4ErgQut4QdwJ6OG,2013,0.0498,0.661,2,0.894,8.45e-06,0.103,-3.822,0,0.0387,129.971,0.729,195699,4,30
+14,첫 사랑니 (Rum Pum Pum Pum),f(x),Pink Tape - The 2nd Album,spotify:track:22sIPXiQzcPydCC6skPPPq,2013,0.509,0.774,11,0.819,1.72e-05,0.239,-2.976,1,0.0383,119.984,0.543,197672,4,53
+15,내 다리를 봐,Dalshabet,Be Ambitious,spotify:track:7tHD9W1csiXXcfYL9v5Rba,2013,0.106,0.667,0,0.946,0.0,0.355,-1.781,1,0.114,128.044,0.657,204467,4,29
+16,We Are Bulletproof Pt.2,BTS,2 Cool 4 Skool,spotify:track:2Kspa0jD2MSkaEdonf4Cnb,2013,0.00945,0.754,8,0.952,6.27e-06,0.189,-5.11,0,0.153,144.051,0.868,225360,4,0
+17,This Love,SHINHWA,The Classic,spotify:track:0T5G5cJUwg3WnAiCVtClOs,2013,0.0316,0.717,5,0.789,0.0,0.0978,-3.586,0,0.076,127.98,0.761,220347,4,3
+18,Is It Poppin'?,4Minute,Is It Poppin'?,spotify:track:6Yp2NcLYo4JbwQs4EQ2pO7,2013,0.37,0.774,11,0.928,2.46e-06,0.0857,-4.026,1,0.0425,124.942,0.875,190171,4,39
+19,N.O,BTS,"O!RUL8,2?",spotify:track:1hehPTlSVIhHEvCkVoe4HX,2013,0.0389,0.594,11,0.914,0.0,0.457,-3.764,0,0.167,146.885,0.571,209752,4,0
+20,I Don't Know,FIESTAR,CURIOUS,spotify:track:2npcFmrEQwYjNzBx74y7Ib,2013,0.242,0.795,8,0.896,5.67e-05,0.0601,-3.058,1,0.0804,138.018,0.897,208262,4,31
+21,Everybody,SHINee,Everybody - The 5th Mini Album,spotify:track:0BiYJIeiAxB8OrCOm9Hgq6,2013,0.0065,0.633,8,0.92,0.0,0.135,-3.045,1,0.0685,126.027,0.732,249292,4,47
+22,Black Tinkerbell,Chocolat,The Third Single Album,spotify:track:4DXPGxI5wGCmypQNcuhmwE,2013,0.0882,0.771,4,0.692,0.0,0.232,-3.448,0,0.0325,116.988,0.906,206341,4,19
+23,I yah,BOYFRIEND,I yah,spotify:track:25vyJurn9FoQVjRASYtvfX,2013,0.00209,0.668,6,0.944,0.0,0.237,-3.279,0,0.0397,109.005,0.703,197172,4,37
+24,Just go,Rania,Just go,spotify:track:28RxCiiTNL9yg2zjg8PoVD,2013,0.00847,0.663,1,0.918,0.0,0.341,-2.147,1,0.0714,133.023,0.604,188857,4,30
+25,One way love,HYOLYN,LOVE & HATE,spotify:track:2UIXAxLWIPM6ALPGCeeXfH,2013,0.0577,0.718,1,0.817,0.0,0.0622,-3.651,1,0.0306,109.952,0.891,197824,4,40
+26,Missing You,2NE1,Missing You,spotify:track:6jUVEs31BrujBa1n2jnnPU,2013,0.823,0.625,0,0.45,0.0,0.111,-5.214,1,0.0339,130.099,0.262,219302,4,0
+27,Dream Girl,SHINee,SHINee The 3rd Album Chapter 1. 'Dream Girl - The Misconceptions Of You',spotify:track:3PrdbYsr8JsDW8f4Tob5pW,2013,0.0429,0.724,11,0.939,0.0,0.304,-0.698,0,0.0736,124.063,0.732,180165,4,47
+28,Gone not around any longer,SISTAR19,Gone not around any longer,spotify:track:4TAENzBN2lYuXBF9ZNauwJ,2013,0.177,0.646,8,0.804,0.0,0.0886,-4.372,1,0.0313,145.986,0.69,211069,4,47
+29,Rose,LeeHi,First Love,spotify:track:1zl7VGjTBriRXgdHEb6z1e,2013,0.0446,0.756,2,0.675,0.0,0.56,-6.619,1,0.0375,124.975,0.401,222288,4,0
+30,Damaged Lady,KARA,KARA 4th Album [Full Bloom] (4),spotify:track:1X1Z8YnSOYkgzWBEYGoF2M,2013,0.0547,0.593,6,0.933,8.82e-06,0.062,-2.854,0,0.079,93.017,0.751,186044,4,43
+31,Good Bye,Dasoni,1st Digital Single 'GoodBye',spotify:track:2q8ZhPOy021QUgLsC4mH46,2013,0.277,0.657,8,0.887,0.0,0.0448,-1.458,1,0.0724,129.935,0.419,209502,4,17
+32,I GOT A BOY,Girls' Generation,I GOT A BOY - The 4th Album,spotify:track:2WkPfNd237yc0l5KewCDpp,2013,0.0342,0.502,4,0.863,0.0,0.538,-1.273,0,0.272,97.911,0.527,271326,4,60
+33,U & I,AILEE,A`s Doll House,spotify:track:1wKOJ2fTflDiABy1EbFflM,2013,0.0346,0.65,2,0.877,0.0,0.334,-1.918,0,0.0398,107.878,0.906,194713,4,47
+34,Expect,Girl's Day,Expectation,spotify:track:2VfxCtWtDJGNKetJvGTWZT,2013,0.135,0.722,0,0.947,0.0,0.348,-1.378,1,0.0941,126.989,0.797,195056,4,0
+35,First Love,After School,After School The 6th Maxi Single 'First Love',spotify:track:2LdOm1BBfBbQjw9LrqmfuC,2013,0.135,0.689,4,0.851,0.0,0.263,-2.96,0,0.0594,89.99,0.672,217738,4,45
+36,FEMALE PRESIDENT,Girl's Day,"The First Album Repackage ""FEMALE PRESIDENT""",spotify:track:76DQZImtwZJqE2We7TNxzF,2013,0.0606,0.767,11,0.909,1.43e-06,0.301,-1.18,1,0.0531,109.958,0.515,212640,4,0
+37,ONE SHOT,B.A.P,ONE SHOT,spotify:track:3ECzwLt2OYNXjLMeTnYzp2,2013,0.0219,0.58,2,0.937,0.0136,0.0667,-2.841,0,0.0905,95.09,0.452,237923,4,49
+38,Glue,9MUSES,GLUE,spotify:track:36lFulbJqaHgJBxR2rYshO,2013,0.239,0.714,4,0.97,0.0,0.65,-2.244,0,0.102,128.092,0.838,192130,4,37
+39,삐딱하게 (Crooked),G-DRAGON,COUP D'ETAT,spotify:track:2r2gvUBwEOiE2IRs24oK9G,2013,0.00191,0.665,2,0.919,0.0,0.0588,-3.211,1,0.0921,129.961,0.783,224793,4,0
+40,GUN,9MUSES,PRIMA DONNA,spotify:track:6Xa6Wg7Izxp97tFnEkOApR,2013,0.0628,0.581,1,0.944,0.0,0.166,-2.439,0,0.0667,142.97,0.947,177672,4,35
+41,넘버나인,T-ARA,Again,spotify:track:6kdrdb4xGK5njn4ITYadZz,2013,0.0102,0.756,1,0.835,2.13e-06,0.05,-3.697,0,0.04,127.986,0.506,228725,4,0
+42,Miracles in December,EXO,Miracles in December,spotify:track:7HrCnwDvbtCKSZtpNDmII9,2013,0.677,0.587,8,0.314,0.0,0.137,-7.62,1,0.0313,119.797,0.211,273288,4,52
+43,Growl,EXO,The 1st Album 'XOXO' (Repackage),spotify:track:4pi0Elz7B7cLfw37J3bYm9,2013,0.145,0.681,11,0.814,0.0,0.556,-2.83,0,0.0603,89.993,0.876,207053,4,66
+44,Now,Trouble Maker,Chemistry,spotify:track:6S5QQ4byCmcm7OcgG3vsyZ,2013,0.39,0.694,2,0.9,4.81e-06,0.27,-3.31,0,0.0393,117.94,0.6,218697,4,51
+45,Love Options,BESTie,Hot Baby,spotify:track:1FakZVUIMvQfLzUlYfmSAz,2013,0.0627,0.756,7,0.899,0.0,0.118,-3.184,0,0.031,122.98,0.914,192070,4,34
+46,Wild,9MUSES,WILD,spotify:track:3hgOyrjBko4gPQRCZjedDU,2013,0.0253,0.698,3,0.94,0.0,0.25,-2.551,0,0.086,132.933,0.839,184660,4,42
+47,Give it to me,SISTAR,Give It To Me (2),spotify:track:1t88m8JUlqn9kf0FLmVta5,2013,0.176,0.719,7,0.945,0.0,0.576,-2.085,0,0.0424,136.045,0.961,201326,4,57
+48,Dolls,9MUSES,DOLLS,spotify:track:1XxT5GxDa5GD8hnhTK2AD6,2013,0.109,0.644,1,0.928,1.69e-06,0.22,-2.662,0,0.0954,110.011,0.838,206498,4,44
+49,Confused,AOA,RED MOTION,spotify:track:7iea4HvjK3AkOajKDUUR2Z,2013,0.313,0.832,11,0.862,0.0,0.176,-2.675,0,0.112,116.996,0.699,222940,4,39
