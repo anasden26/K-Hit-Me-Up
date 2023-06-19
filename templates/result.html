@@ -32,7 +32,10 @@
                 <a class="nav-link" href="{{ url_for('popularity') }}">Previous Years</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="{{ url_for('test') }}">Wanna Know?</a>
+                <a class="nav-link" href="{{ url_for('artist') }}">Artist</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="{{ url_for('artist2023') }}">Wanna Know?</a>
               </li>
             </ul>
           </div>
@@ -41,40 +44,32 @@
     </section>
     <!-- END NAVBAR -->
 
-    <section class="section1 d-flex align-items-center">
+    <section class="section1 d-flex">
         <div class="container">
-            <div class="column text-center px-5 mx-5">
-              <div class="row">
-                <div class="col-2"></div>
-                <div class="col-8">
-                  <h1>{{ name }}</h1>
-                  <p class="pt-3 results">
-                    {{ name }} has a total of {{ result }} top songs and overall of {{ result_positive }} 
-                    popular songs over the past 12 years.
-                  </p>
-                </div>
-                <div class="col-2"></div>
-              </div>
-              <div class="row pt-5">
-                <div class="col col-lg-6 col-button">
-                  <a href="{{ url_for('home') }}" class="button">
-                    <div class="button__line"></div>
-                    <div class="button__line"></div>
-                    <span class="button__text">Back To Home</span>
-                    <div class="button__drow1"></div>
-                    <div class="button__drow2"></div>
-                  </a>
-                  </div>
-                  <div class="col col-lg-6 col-button">
-                    <a href="{{ url_for('test') }}" class="button">
-                      <div class="button__line"></div>
-                      <div class="button__line"></div>
-                      <span class="button__text">Try Again</span>
-                      <div class="button__drow1"></div>
-                      <div class="button__drow2"></div>
-                    </a>
-                  </div>
-                </div>
+            <div class="column text-center px-5 mx-5 table-result-section">
+              <h1 class="pb-4">Currently Popular Artist (2023)</h1>
+              <table>
+                <thead>
+                  <tr>
+                    <th class="text-center">Rank</th>
+                    <th class="text-center">Artist</th>
+                    <th class="text-center">Title Song</th>
+                    <th class="text-center">Popularity</th>
+                    <th class="text-center">Popular?</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  {% for o in range(0, 100) %}
+                        <tr>
+                          <td>{{ o+1 }}</td>
+                          <td>{{ artist[o] }}</td>
+                          <td>{{ title[o] }}</td>
+                          <td>{{ song_popularity[o] }}</td>
+                          <td>{{ popular[o] }}</td>
+                        </tr>
+                      {% endfor %}
+                </tbody>
+              </table>
             </div>
         </div>
     </section>

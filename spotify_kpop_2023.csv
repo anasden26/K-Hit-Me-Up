@@ -1,0 +1,653 @@
+,title,artist,album,uri,year,acousticness,danceability,key,energy,instrumentalness,liveness,loudness,audio_mode,speechiness,tempo,valence,duration_ms,time_signature,song_popularity
+0,Let Me In,EXO,Let Me In,spotify:track:5e6hUjvQG2inD4Svco0PvP,2023,0.461,0.549,1,0.675,0.0,0.171,-4.964,0,0.045,84.013,0.373,197533,4,0
+1,R.U.N,Suzy,R U Next? Theme Song,spotify:track:6ZRkGwxywPUmjPLglrfqlq,2023,0.11,0.496,8,0.731,0.0,0.0998,-4.922,1,0.114,177.688,0.439,194775,4,0
+2,Designer,VAV,Subconscious,spotify:track:4j6eC1fspkLNV3Owy24oYA,2023,0.199,0.716,8,0.853,0.0,0.224,-2.779,1,0.0643,136.044,0.642,182707,4,0
+3,Decision to leave,Gummy,Decision to leave,spotify:track:0qP6zleSUcWWlS3Q5Ikoj6,2023,0.587,0.435,7,0.6,0.0,0.128,-5.699,1,0.0434,132.001,0.129,188343,4,0
+5,Hip Drive,Rovv,Hip Drive,spotify:track:6UufZnEaHVi9oHG1EEMcs6,2023,0.507,0.525,5,0.745,0.0,0.143,-4.858,1,0.0727,79.951,0.387,144750,4,0
+6,Someone On You (Feat. Kid Wine),Skinny Brown,Stargaze,spotify:track:5yYpA3IqmJjZqMSwVy5nNU,2023,0.24,0.823,1,0.613,0.0,0.108,-6.12,1,0.169,98.994,0.711,176331,4,23
+7,Guardian,LE SSERAFIM,BASTIONS OST Part.4,spotify:track:1hXpqrmqmlYMfpF23fb8mK,2023,0.00775,0.771,2,0.875,0.0,0.0998,-4.092,1,0.0562,150.105,0.722,158981,4,49
+8,Acrobat2,Gwangil Jo,Acrobat2,spotify:track:1lr3eme5yOQOAplN5IeDyn,2023,0.248,0.509,11,0.967,0.0,0.472,-1.247,0,0.331,90.792,0.623,190213,4,31
+9,Take Two,BTS,Take Two,spotify:track:5IAESfJjmOYu7cHyX557kz,2023,0.0268,0.617,7,0.589,0.0,0.378,-5.978,1,0.0345,92.991,0.566,229953,4,87
+10,SHALALA,TAEYONG,SHALALA - The 1st Mini Album,spotify:track:2gAX00D7NOBKdcKbOXdpFR,2023,0.291,0.845,0,0.884,0.00129,0.173,-3.419,1,0.216,95.0,0.78,201107,4,70
+11,Waterfall,U-KNOW,RACE (Original Television Soundtrack),spotify:track:5n9VpeMnT7qQfsWg8J2WM0,2023,0.593,0.6,7,0.748,0.0,0.439,-5.723,1,0.159,104.948,0.575,215213,4,31
+12,JUMP,P1Harmony,HARMONY : ALL IN,spotify:track:4vTXBC7QOjEbi8DcJvCNE2,2023,0.0343,0.793,2,0.672,0.0,0.1,-5.196,1,0.061,121.004,0.573,163280,4,60
+13,RISE UP,QUEENDOM PUZZLE,QUEENDOM PUZZLE RISE UP,spotify:track:32ZAKn8Qc0VGn4UmCxnR5z,2023,0.208,0.647,8,0.853,0.0,0.0878,-2.57,1,0.0372,99.958,0.416,198693,4,32
+14,Juliet,AleXa,Juliet,spotify:track:0Az7joLy5fq294oh13uTgA,2023,0.227,0.62,7,0.635,0.0,0.114,-3.993,1,0.0311,117.989,0.194,223587,4,39
+15,White Desert,You Chae Hoon,Impasto,spotify:track:0HV7dTKl8VPOO3NL5BbIZB,2023,0.574,0.357,8,0.541,0.0,0.163,-6.17,1,0.0373,135.181,0.213,308573,4,24
+16,"Plum Blossom (Webtoon 'Return of The Blossoming Blade', Pt. 3)",Kim Yuna,"Plum Blossom (Webtoon 'Return of The Blossoming Blade', Pt. 3)",spotify:track:2oo8j9ZIUiT1WNRaZX9t7L,2023,0.0236,0.385,7,0.857,0.0,0.366,-3.166,0,0.132,83.272,0.358,187307,4,31
+17,Mistakes (Never Looking Back),YUNHWAY,YUNHWAY,spotify:track:0GY6HG86ZHnv8KueOCce1I,2023,0.0079,0.581,1,0.861,3.75e-05,0.102,-5.647,1,0.124,196.032,0.399,197250,4,24
+18,Wasteland,KANGDANIEL,Wasteland,spotify:track:4bml9BznT3E0sX4xpa0voN,2023,0.0752,0.568,8,0.651,0.0,0.13,-6.49,0,0.0521,147.938,0.522,182680,4,55
+19,Relationship,Han Dong Geun,Relation,spotify:track:3JE3FeEDmCs0UYnG9oZ5mk,2023,0.268,0.53,2,0.697,0.0,0.0995,-3.446,1,0.0375,139.901,0.327,262827,4,26
+20,Did It Myself,Kid Milli,Bitch X Rich (Original Television Soundtrack) Pt. 1,spotify:track:014UbcvltWdvq1h6oNL17Y,2023,0.107,0.772,10,0.801,0.0,0.115,-4.674,0,0.0559,131.942,0.286,171710,4,32
+21,Balloon - Sunset Rollercoaster Remake,ADOY,us (Sunset Rollercoaster & JORDANN),spotify:track:4PdPDjESMm6jf9VNjwLTJH,2023,0.283,0.684,4,0.731,0.768,0.131,-9.264,1,0.0314,122.994,0.425,222352,4,44
+22,Diaryy,YongYong,Black Diaryy,spotify:track:0tvrfUtGC3WHPPNlySHd4F,2023,0.206,0.75,3,0.76,0.0,0.289,-5.223,1,0.0331,115.972,0.695,215293,4,30
+23,BLEACHING (feat. Crush),MILLIC,~,spotify:track:1hRKY6hYZZ7jLsUJvsG32J,2023,0.199,0.39,9,0.361,0.000797,0.31,-8.551,1,0.0292,143.655,0.0411,244536,4,32
+24,Why break up? (My love X Jeon Sang Keun),Jeon Sang Keun,Why break up? (My love X Jeon Sang Keun),spotify:track:668e9vwoz1MhnFai3fNvHF,2023,0.589,0.509,4,0.503,0.0,0.36,-6.211,0,0.0365,127.984,0.236,271280,4,32
+25,Forget Me Not,SURAN,Forget Me Not,spotify:track:79KXSZofyFSDnG4AlRAUVf,2023,0.674,0.585,5,0.327,0.0,0.112,-6.895,1,0.0325,121.829,0.275,228147,4,26
+26,Like the first time,Ha Yea Song,Like the first time,spotify:track:7Hvn6ZXQc87sWq33OhpcPH,2023,0.712,0.447,4,0.585,0.0,0.0982,-3.227,1,0.0361,132.594,0.275,243627,4,28
+27,Grain of Sand,Lim Young Woong,Grain of Sand,spotify:track:4WUpMUjdoi47LY7gBQBXe3,2023,0.776,0.515,4,0.346,2.65e-05,0.119,-8.908,1,0.0342,130.043,0.107,219883,4,57
+28,Over The Mountain (Prod. dress),Gaeko,Over The Mountain (Prod. dress),spotify:track:5AHXMr5z1TfXXi91ZpsYhG,2023,0.139,0.646,5,0.738,0.0,0.495,-5.541,1,0.368,161.39,0.679,214274,4,44
+29,#menow,fromis_9,Unlock My World,spotify:track:4lIAPwAU6R8PAy2WhykC4i,2023,0.192,0.703,6,0.909,0.0,0.0717,-2.686,0,0.102,117.989,0.83,169907,4,65
+30,Love from a Real Heart(2023),LEE CHANGSUB,"Beginning is the First Kiss (Original Television Soundtrack), Pt.7",spotify:track:0Muf8pCSuf50DOoWs9ABVz,2023,0.325,0.297,11,0.752,0.0,0.155,-2.283,1,0.0447,156.134,0.285,260733,4,33
+31,S-Class,Stray Kids,5-STAR,spotify:track:3gTQwwDNJ42CCLo3Sf4JDd,2023,0.0895,0.886,5,0.781,0.0,0.0715,-1.837,0,0.333,104.996,0.672,195689,4,86
+32,I Promise,Lee Juck,Romantic Doctor 3 OST Part.6,spotify:track:3mwK3Xvg9dz0pEf286cHIn,2023,0.522,0.409,2,0.479,4.17e-06,0.202,-4.809,0,0.0306,140.519,0.141,292635,4,41
+33,Ransome (Feat. BILL STAX),Woo,Ransome,spotify:track:31HhKQyZZI0PEzdrhZ4IGo,2023,0.782,0.779,11,0.497,0.000172,0.139,-8.773,0,0.227,87.026,0.522,268759,4,45
+34,Shiny World,Brave Girls,BASTIONS OST Part.3,spotify:track:2xc3MkZuDlnfFAWJkOKk2S,2023,0.11,0.77,7,0.884,0.0,0.0806,-1.445,0,0.0503,115.062,0.339,188053,4,35
+35,genius complex,장지수 (Sou),have,spotify:track:6LOSm4BBw3mM9jT7zl1utx,2023,0.29,0.926,5,0.73,0.0,0.101,-5.712,0,0.298,108.97,0.545,179421,4,31
+36,Where To Go,LEENU,Where To Go,spotify:track:22fw3hgodLJIAhx6SbUKGZ,2023,0.613,0.505,5,0.56,0.0,0.124,-4.532,1,0.0309,131.958,0.178,227897,4,25
+37,LALALA,Goyo,Giraffe Picture,spotify:track:0fQXl2rzS0lL4XSZLwViuw,2023,0.455,0.711,3,0.86,0.0,0.331,-5.126,1,0.369,160.167,0.824,211360,4,24
+38,Riding a T-Rex,J.Fla,Riding a T-Rex,spotify:track:5j7H4npdgXlvPIR56Zbvqo,2023,0.653,0.742,1,0.342,2.21e-06,0.151,-6.051,1,0.0361,82.034,0.583,133000,4,31
+39,"Dance With Me (feat. Keemhyoeun, CHOILB)",RAUDI,"Dance With Me (feat. Keemhyoeun, CHOILB)",spotify:track:5Qlfc8kcBBiTQ0oWzAPO1q,2023,0.519,0.689,4,0.627,0.0,0.116,-6.421,0,0.294,87.472,0.556,178197,4,24
+40,You Are My Spring,Hwang Chi Yeul,GIFT,spotify:track:3npCSfjXu3Ud4TYsAFbjxp,2023,0.624,0.404,1,0.481,0.0,0.0967,-5.352,1,0.0286,137.202,0.498,233560,4,31
+41,Story of my friend (feat. Skinny Brown),Grizzly,Story of my friend (feat. Skinny Brown),spotify:track:27joS0RwQeMfNR93qvyAmK,2023,0.118,0.696,0,0.571,0.0,0.103,-3.897,1,0.0487,81.998,0.635,220160,4,38
+42,Mañana (Our Drama),ZHOUMI,Mañana (Our Drama),spotify:track:7IJ51lrbee0m3Ru7j6B4qN,2023,0.17,0.772,7,0.873,0.000471,0.22,-2.118,1,0.0511,95.958,0.713,195400,4,41
+43,TIME DIFFERENCE,AARON,TIME DIFFERENCE,spotify:track:18mvw5N4MiiRyWePhgPN8X,2023,0.352,0.582,0,0.827,0.0,0.106,-3.428,0,0.0582,130.164,0.633,197553,4,38
+44,Dare to Love (feat. BIG Naughty),B.I,TO DIE FOR,spotify:track:6odZjB2Z1T2iJTf5bbqUIe,2023,0.244,0.77,8,0.659,0.0,0.0576,-6.181,1,0.198,67.496,0.649,175716,4,59
+45,Romantico (Prod. by TETE),LIM KIM,Romantico - LIM KIM&TETE,spotify:track:1Tr24ahIeCZxeXEfJ5l3Og,2023,0.521,0.624,1,0.535,1.07e-06,0.11,-6.669,0,0.0257,104.013,0.693,247446,4,29
+46,Honey,STH,Honey,spotify:track:3WJbPo8V61piAagZYyRqn8,2023,0.293,0.521,0,0.559,0.0,0.17,-4.972,1,0.0274,123.984,0.192,249467,4,26
+47,Behind,Sonnet,Battle for Happiness Pt. 1 (Original Soundtrack),spotify:track:6VuM6TdAwEK8EGp4D13fcm,2023,0.33,0.588,6,0.772,0.0,0.106,-3.506,0,0.0664,79.963,0.325,206240,4,35
+48,Tell Me,RIO,"The Good Bad Mother (Original Television Soundtrack, Pt. 7)",spotify:track:61BP0xUAwiYULnLWKeziso,2023,0.89,0.521,3,0.183,0.0,0.102,-11.277,1,0.0338,135.56,0.225,226000,4,41
+49,100%,Yebit,23,spotify:track:7yeC6MIFL8uFJxxpi689Oh,2023,0.457,0.398,11,0.623,0.0,0.116,-4.538,1,0.0366,178.993,0.51,191133,4,39
+50,You Will Never Know,Hoody,You Will Never Know,spotify:track:6N01HkXOMOvC9659WOQGAp,2023,0.544,0.666,1,0.58,0.0,0.174,-7.703,0,0.189,91.818,0.588,202035,4,36
+51,If I Success,Pa!nter,If I Success,spotify:track:7beMq9H2hpiINjKNAapFZE,2023,0.185,0.611,5,0.855,0.0,0.0741,-3.274,1,0.0543,80.01,0.803,159227,4,22
+52,Beast,Kim Pil Sun,Beast,spotify:track:7JKQa9Nq8tK0Ug6JK7kk6c,2023,0.928,0.667,9,0.177,1.07e-05,0.101,-9.943,1,0.0356,62.026,0.38,240493,4,21
+53,Diamond,Rothy,Diamond,spotify:track:1OjybWpjWBMDxOPNerlmDw,2023,0.462,0.321,11,0.705,0.0,0.11,-3.859,1,0.0397,159.04,0.248,179253,4,41
+54,End of the Road,Monday Kiz,End of the Road,spotify:track:177g45l0BbZWVTMXJMjebn,2023,0.483,0.397,4,0.671,0.0,0.188,-4.858,1,0.0517,134.271,0.177,218613,4,36
+55,Dinner (Feat. KLANG),Room306,Dinner (Feat. KLANG),spotify:track:6UdxI91PUintRj2X0vwSsp,2023,0.753,0.684,1,0.699,1.16e-05,0.0788,-7.371,1,0.3,75.032,0.395,176966,4,22
+56,wander,Mew,Romance by Romance (Original Television Soundtrack) Pt. 2,spotify:track:5gzuXMBkHADurR2quS47Dg,2023,0.756,0.544,10,0.353,0.000153,0.114,-8.365,1,0.029,121.863,0.0974,247444,4,18
+57,Love is painful,JOO SEOL OK,Love is painful,spotify:track:7iXTJ3qtfYQa4b69e7HXjk,2023,0.374,0.562,11,0.522,0.0,0.153,-4.416,1,0.0298,129.853,0.207,261093,4,20
+58,I Do (feat. VEKOEL),Smiley DeBron,Talk to Smiley,spotify:track:1OBLhoOLIV0t7eMsXFELmN,2023,0.0594,0.848,2,0.59,0.0,0.109,-5.239,1,0.0632,118.987,0.0959,180570,4,20
+59,Better Days,Cha Woo Joo,Heartbreaking Sorrow,spotify:track:5rUYtiBQcEMhRSJ89G9mWv,2023,0.295,0.382,1,0.751,0.0,0.424,-3.903,0,0.0366,175.939,0.35,221124,4,5
+60,Don′t Call Me,NINE to SIX,NINE to SIX 1st Single Album ′GOOD TO YOU′,spotify:track:2JZcu16wgcucoYRBWD41zQ,2023,0.021,0.783,8,0.873,0.0,0.285,-4.409,1,0.197,95.046,0.729,183750,4,38
+61,i can’t wait too long,HAMIN(BXB),Love Mate OST Part.3 (Soundtrack),spotify:track:4Uk6TLwgOaFrNLDD2dacJ8,2023,0.512,0.689,1,0.58,0.0,0.16,-5.292,1,0.0281,90.989,0.363,214080,4,33
+62,Young Baller (Feat. ICE PUFF),Dorico,Young Baller (Feat. ICE PUFF),spotify:track:58LcJiN3KP2vg94dv2x2hn,2023,0.0745,0.605,8,0.795,0.0,0.0571,-4.554,1,0.342,127.139,0.759,167244,4,17
+63,Blue diary (feat. Soyoungyi),Merry apple,Blue diary,spotify:track:5kQ1kCdvvE8eooOTDBRwDU,2023,0.665,0.541,9,0.316,0.0,0.0983,-4.834,1,0.028,154.135,0.455,271413,3,16
+64,Used,Eizzyboy,used,spotify:track:1AAUlhzTWkU8c9Krkp1xtW,2023,0.235,0.753,0,0.767,0.0,0.0976,-4.949,0,0.0362,93.553,0.513,229733,4,16
+65,빛의 파도,5252,빛의 파도,spotify:track:2MUk5WRTzV0CRW8AWS4OTR,2023,0.762,0.484,1,0.436,0.0,0.114,-8.029,1,0.0368,179.703,0.375,185637,4,20
+66,Emotions,Miso,Emotions,spotify:track:0OFHaWfjf0pHNPJ0WpRwp2,2023,0.628,0.557,5,0.735,0.0,0.168,-7.721,1,0.31,169.998,0.67,199748,4,39
+67,Monthly Project 2023 May Yoon Jong Shin - Hesitate,Yoon Jong Shin,Monthly Project 2023 May Yoon Jong Shin - Hesitate,spotify:track:2VDzwkGQ32hS9VDIQOiIUS,2023,0.401,0.448,2,0.586,0.0,0.225,-4.942,1,0.0413,71.824,0.178,280893,4,28
+68,As the Moon Embraces the Waves,LUDA,Rinza Noodle House (Original Television Soundtrack) Pt.3,spotify:track:0lxVu29tReGIrXNOmfWK6Q,2023,0.813,0.383,7,0.255,0.0,0.36,-9.767,1,0.0288,139.728,0.171,200400,4,34
+69,vlog (feat. Heeju),Joob A,vlog,spotify:track:3ihrWtJygWJnDsMoGtXAW5,2023,0.783,0.505,2,0.557,2.45e-06,0.417,-7.098,1,0.172,79.169,0.543,200680,4,28
+70,Dreamer,Lee Hyuk,Dreamer,spotify:track:0XKlVUQpNi45dxO3pIrY1A,2023,0.795,0.603,9,0.382,9.82e-06,0.0945,-7.298,1,0.0267,147.947,0.393,172250,4,18
+71,Teach Me,Nieah,Teach Me,spotify:track:42KQPEwQbifLtdMMa24DXH,2023,0.0843,0.606,1,0.744,0.0,0.372,-4.053,0,0.121,169.798,0.199,173501,4,42
+72,Lovey Dovey,HORI7ON,Lovey Dovey,spotify:track:5hWUZ9VTMiXF8YSKiNbH4R,2023,0.0237,0.69,1,0.933,0.0,0.193,-2.525,1,0.173,110.023,0.807,189272,4,49
+73,I Robbed a Bank,Nerd Connection,I Robbed a Bank,spotify:track:3eBQCl5y6oGPnAJ1yTGeMW,2023,0.000105,0.429,4,0.949,0.228,0.187,-2.413,0,0.14,128.068,0.277,170500,4,32
+74,모조 MOJO,META.,모조 MOJO,spotify:track:2ZYAUtBIgViPbFIZaD7gFd,2023,0.0327,0.781,10,0.847,0.0,0.119,-7.804,0,0.317,100.002,0.139,189600,4,17
+75,I'm Still You,or&,"Woman in a Veil (Original Television Soundtrack), Pt.4",spotify:track:0AopwjvGx6yY68V8uxARqv,2023,0.86,0.549,9,0.417,0.0,0.108,-4.872,1,0.0282,129.758,0.218,211400,4,33
+76,Cool Prod. PEEJAY,Wonstein,DEMO,spotify:track:6XwWjm2hBIZmhDR6ZMSxoC,2023,0.147,0.757,5,0.742,0.0,0.289,-5.664,0,0.0458,138.884,0.543,129947,4,47
+77,Bloom,Yang Hee Eun,Bloom - SM STATION,spotify:track:1TNbSiugIrd1cBuXQJOT1I,2023,0.939,0.421,4,0.257,0.0,0.098,-8.152,1,0.028,85.946,0.161,253387,3,49
+78,SPECIAL LOVE,XODIAC,SPECIAL LOVE,spotify:track:11RrLN6I83tZKAKBxkPSsn,2023,0.133,0.756,4,0.758,0.0,0.164,-3.322,1,0.0435,126.042,0.812,208613,4,54
+79,HONDA !,Kid Milli,BEIGE,spotify:track:0yurxXDL2EC9dFyZJXy39y,2023,0.245,0.735,10,0.836,0.0,0.116,-3.683,0,0.0687,159.934,0.663,181735,4,48
+80,Life4Cuts (Feat. Leellamarz),DINDIN,Life4Cuts (Feat. Leellamarz),spotify:track:6RCngYslAsVhcRtLyxxNyF,2023,0.117,0.743,1,0.591,0.0,0.0695,-6.672,1,0.0576,80.011,0.591,196120,4,37
+81,The Starting Line,WH3N,The Starting Line,spotify:track:08UyeM93TiGJ7wyjqS0hFn,2023,0.527,0.808,11,0.402,0.0,0.164,-5.582,1,0.0621,116.016,0.435,158560,4,25
+82,Bad At Us,xooos,Made In Heart,spotify:track:12EhuKuFOOs7sBMbajhDNW,2023,0.164,0.763,9,0.682,0.0,0.104,-4.971,1,0.0895,138.089,0.595,199640,4,47
+83,Step,Sondia,My Perfect Stranger OST Part.5,spotify:track:1DGoluJIZMwilqWh4qfrR3,2023,0.821,0.447,3,0.39,3.86e-06,0.104,-8.266,1,0.0324,121.989,0.0871,253320,4,38
+84,사랑은 어려워,YUMIN,Love & Youth,spotify:track:1E6RmpIc03WFK4u5Gx64GI,2023,0.526,0.562,0,0.652,0.0,0.101,-4.689,1,0.0266,96.938,0.598,191755,4,26
+85,Angel Wings,Raina,Oh! Youngsim Pt. 3 (Original Soundtrack),spotify:track:058dHJKd8AoHDyohFmX5Y2,2023,0.00636,0.603,7,0.883,0.0,0.112,-3.982,1,0.0379,104.008,0.472,201850,4,32
+86,Puzzle,Son Chamchi,[Tuna Factory] Product 8 - Puzzle,spotify:track:1DfvyZEUBgjZ5WSn74n0eU,2023,0.0644,0.486,9,0.686,4.89e-06,0.12,-5.615,1,0.046,164.775,0.257,212727,4,20
+87,BYOB,JINBO,BYOB Tonight,spotify:track:2Z7K5grDOGbiufVaLbdciM,2023,0.0998,0.607,10,0.559,4.97e-05,0.165,-6.414,0,0.0396,75.01,0.304,252500,4,21
+88,Numb,E.SO,Numb,spotify:track:1VFGKeUz5pbkboGeTbRFpc,2023,0.525,0.739,10,0.686,1.56e-06,0.162,-4.058,0,0.0616,90.037,0.507,218627,4,20
+89,Run,Yeon Kyoo Seong,Run,spotify:track:00ZG8DzWetkzZA6myZHqp9,2023,0.0141,0.582,10,0.741,0.00416,0.065,-5.805,0,0.0449,129.92,0.429,165308,4,16
+90,KID,SONIC STONES,KID,spotify:track:0O8QJ8O6cVS6RSH0ks5KGd,2023,6.64e-05,0.386,10,0.958,0.00126,0.124,-3.65,1,0.0663,155.919,0.817,177953,4,16
+91,b u b b l e ✧ (feat. Haedo),sweetch,light #3,spotify:track:143qoJL04wJlCqhd8CQ4Qj,2023,0.503,0.676,5,0.589,0.0,0.541,-6.206,0,0.165,90.024,0.368,201691,4,22
+92,Love & Hate,RIPLEY,Love & Hate,spotify:track:3yV0kDr9zptKryKE0w1ad2,2023,0.773,0.671,9,0.578,5.95e-06,0.165,-5.591,1,0.0306,120.008,0.381,222000,3,29
+93,Last Greeting,WOO,BE:LOVED,spotify:track:07HxXAB6NchFAa8eO7h2xe,2023,0.298,0.532,7,0.572,0.0,0.193,-5.185,1,0.03,139.821,0.386,255133,4,17
+94,I'll Eat Up Your Darkness,Ahn Heesu,Be Trapped In A Picture,spotify:track:4NKa7tW2N6mCdQSJKCP2hF,2023,0.906,0.791,9,0.293,3e-06,0.24,-7.549,1,0.0373,112.002,0.693,215000,4,17
+95,A Shining Day,MeloMance,A Shining Day,spotify:track:7K5uJR4gWSUuC6fjiuQfCr,2023,0.526,0.636,7,0.678,0.0,0.146,-3.311,1,0.0274,92.005,0.713,178000,4,48
+96,"Save me, Kill me",CIX,CIX 6th EP Album 'OK' Episode 2 : I'm OK,spotify:track:0Z5gF9M35PmrQooN2lDlkK,2023,0.121,0.515,1,0.903,0.0,0.406,-2.386,0,0.0733,99.981,0.481,217880,4,61
+97,LOSER,AB6IX,THE FUTURE IS OURS: LOST,spotify:track:2jSKhV7zSImRqT4jBCFnEE,2023,0.0828,0.639,5,0.83,0.0,0.121,-2.872,0,0.0602,144.946,0.689,210401,4,52
+98,The Day,Sojeong,The Day,spotify:track:2JGpd5v7QkvJ1QLeSkLH7q,2023,0.0903,0.571,11,0.867,0.0,0.119,-1.872,1,0.0303,104.004,0.464,211133,4,26
+99,To You,Cha ga eul,"Beginning is the First Kiss (Original Television Soundtrack), Pt.6",spotify:track:2V0Rr5qfC2Tx3bv5mEi5I0,2023,0.539,0.426,9,0.579,0.0,0.302,-3.166,1,0.0369,203.797,0.446,192200,4,32
+100,Natural History Museum,The Electriceels,Natural History Museum,spotify:track:3SqTKxJvLkJAAcPBfjzKEG,2023,0.00155,0.549,5,0.83,0.0119,0.0918,-5.763,1,0.0367,191.818,0.919,193880,4,28
+101,I'm Not Your Cat Feat.b!ni,Tamiz,I'm Not Your Cat,spotify:track:3DllqL0wBXYC9WRE5cPIms,2023,0.757,0.898,9,0.494,4.51e-06,0.0975,-6.943,1,0.087,82.013,0.942,166080,4,23
+102,Fading seasons (Prod. by O.WHEN),SOOHYUN,Fading seasons (Prod. by O.WHEN),spotify:track:77NwAK7ivUb4LnozET6PRO,2023,0.156,0.406,3,0.507,0.0,0.121,-7.36,1,0.0331,133.046,0.264,225536,4,20
+103,Wind Song,Kei,"Tale of the Nine Tailed 1938, Pt. 4 (Original Television Soundtrack)",spotify:track:1SHozMlsPJKL6XJM5Uami7,2023,0.515,0.43,7,0.373,0.000105,0.102,-6.572,0,0.0295,82.829,0.0462,251907,4,39
+104,No Answer,Hwang In Wook,No Answer,spotify:track:6EviXGl9V6dWOK5ZjENc8A,2023,0.187,0.42,2,0.673,0.0,0.145,-2.953,1,0.0476,133.69,0.37,208373,4,35
+105,Dear. Lover,Eun ga eun,Dear. Lover,spotify:track:1RwrqJ7EZ04tmZF9OwuTAu,2023,0.744,0.273,6,0.427,1.08e-05,0.0557,-3.125,1,0.0299,137.844,0.207,259048,4,16
+106,VEGAS,Juncoco,VEGAS,spotify:track:0vv47eMJbQtZT9qBAE4hRX,2023,0.0204,0.476,11,0.807,0.0,0.176,-4.856,0,0.0831,168.178,0.493,216467,4,18
+107,Our Painted Night,kursor,Our Painted Night,spotify:track:4yTsQGlUwUheNAcwcjdnBY,2023,0.631,0.533,7,0.431,0.0,0.0871,-8.853,0,0.0355,125.645,0.312,227619,4,16
+108,Pine Tree,LEEWOO,Pine Tree,spotify:track:1DjKgebX6G4k1SzhAal8mq,2023,0.45,0.408,3,0.564,0.0,0.178,-4.39,1,0.034,141.09,0.348,259680,4,33
+109,FOLLOW,U-Rim,FOLLOW,spotify:track:1WhjEyuItM6O5uHrV5S3Dm,2023,0.78,0.394,10,0.53,0.0,0.34,-3.568,1,0.0335,134.668,0.348,205987,4,18
+110,Some Excuse,Jeon Yoodong,Some Excuse,spotify:track:4mcGUuqTYnF5XAl32kgHEe,2023,0.169,0.69,2,0.606,0.0435,0.114,-7.611,1,0.0336,110.003,0.654,312840,4,15
+111,WHISTLE,Able,WHISTLE,spotify:track:2oeK9YUD1qXfdqIEPGGTIa,2023,0.547,0.718,10,0.758,0.0,0.116,-3.574,1,0.0379,93.993,0.503,186701,4,17
+112,Good Days,Hong Yaejin,Good Days,spotify:track:20eEjF9COTFOSWOwqvSFCK,2023,0.843,0.691,10,0.28,0.0,0.107,-8.445,1,0.0287,91.946,0.402,280920,4,15
+113,Smile (Feat. HIROTO),lunCHbox,Package 1 : Smile,spotify:track:1XfaidpZf9afS7akthBoXC,2023,0.349,0.77,9,0.514,0.0,0.267,-7.3,1,0.0513,111.956,0.283,156750,3,24
+114,night rain,RAN,night rain,spotify:track:24NlT4oXNbeqPfHr7p8h3F,2023,0.837,0.439,5,0.462,1.42e-06,0.186,-6.006,1,0.0291,129.377,0.334,183061,4,15
+115,Around you (now),PITCHGRIN,Around you (now),spotify:track:06sWdG1S6GJAPXvwSqN6cD,2023,0.964,0.458,11,0.227,9.23e-05,0.404,-12.472,0,0.0285,155.446,0.486,168857,3,13
+116,Missing you at the night,Geum Nara,"Oh, Boy! OST Part.18 (Soundtrack)",spotify:track:2yligKIUYBMtw9XW8CfjN2,2023,0.797,0.488,7,0.507,0.0,0.23,-3.626,1,0.0311,135.425,0.15,198816,4,13
+117,Wonderland,Norwegian Wood,Wonderland,spotify:track:6tg2zUVUjoRZdF8P3vSVHR,2023,0.706,0.731,10,0.463,0.0,0.302,-6.355,1,0.0272,99.045,0.462,210909,4,18
+118,Eyes On Me,HELLO GLOOM,Eyes On Me,spotify:track:3U1vzP4VCzxv14ZZdLHyAI,2023,0.0294,0.693,0,0.888,5.84e-05,0.065,-4.939,1,0.0419,125.103,0.546,179680,4,37
+119,BLUE ROS3 (miracle),유니스,BLUE ROS3 (miracle),spotify:track:5Qw1RPJX0ky6nkka2qY9l4,2023,0.121,0.54,0,0.751,0.0,0.0801,-2.651,1,0.0793,79.792,0.511,187600,4,23
+120,Sunset,ecru,Sunset,spotify:track:1mK84yIVjqetpdWKYXFgLe,2023,0.544,0.619,8,0.51,0.0107,0.19,-7.033,0,0.0637,79.945,0.544,197000,4,20
+121,Beautiful City,Kim Areum,Beautiful City,spotify:track:3Cx1jrpnIAZeBg8hHXhP5E,2023,0.354,0.649,3,0.909,1.27e-06,0.0908,-4.044,0,0.0657,114.88,0.511,309487,4,24
+122,Without you,XAVII,Without you,spotify:track:14ALTIe2imKvbXoEzYhn72,2023,0.256,0.52,9,0.672,1.4e-06,0.103,-6.097,1,0.121,151.909,0.208,180000,4,18
+123,Love Alone,TOIL,Love Alone,spotify:track:5sTzzatdPxDcQhJDDTEqcC,2023,0.691,0.6,5,0.368,0.0,0.102,-7.921,1,0.0282,66.991,0.243,229240,4,42
+124,EO MEO NI WA GO DEUNG EO,LUCY,MONTHLY THE STAGE,spotify:track:3Y3Qx9igQXlZ7u6Jr1QKuK,2023,0.427,0.337,9,0.947,5.27e-05,0.0875,-3.355,1,0.365,205.863,0.316,164027,4,36
+125,Baby good night,EPEX,K-909 : Baby good night,spotify:track:5zvLjMjcVDD8blrEgEeriW,2023,0.00563,0.554,7,0.816,0.0,0.134,-3.809,1,0.0488,133.097,0.612,153240,4,44
+126,Listen to me,Damu,Listen to me,spotify:track:7nIOb4S3lOt449s7EAKAOz,2023,0.449,0.475,1,0.437,0.0,0.117,-5.78,1,0.0273,134.264,0.148,248731,5,12
+127,Infodemics (with Ilwoo Lee from JAMBINAI),Song Sohee,Infodemics (with Ilwoo Lee from JAMBINAI),spotify:track:38X1wZZV5ibTj0R0TPGPSO,2023,0.152,0.44,1,0.543,9.49e-06,0.203,-6.272,0,0.0298,149.994,0.0697,367500,3,26
+128,pr0blem,Loeyn,pr0blem,spotify:track:6t201nr1m4E5ne2k2JvzkA,2023,0.0327,0.692,1,0.698,0.0,0.164,-7.086,1,0.0323,119.994,0.306,212540,4,13
+129,Springtime in Chernobyl,CHABITNA,CHABITNA 2nd Album,spotify:track:1CNKD2is5x9QP2iJd6HEOy,2023,0.648,0.612,7,0.503,7.8e-05,0.159,-7.469,1,0.0256,96.063,0.448,253606,4,12
+130,Enemy (feat. GEMINI),Jiselle,Enemy (feat. GEMINI),spotify:track:6XoQep0PUbhBV1pnVK4340,2023,0.135,0.711,1,0.649,0.0,0.326,-4.473,0,0.0442,139.984,0.517,167933,4,42
+131,"cloudy, sunny",SBGB,"cloudy, sunny",spotify:track:3NYzpeLLQBQaVDbhQxQOWo,2023,0.773,0.643,0,0.234,2.28e-06,0.137,-10.073,1,0.0361,114.904,0.28,184287,3,22
+132,사랑스러운 너 (feat. 이상은),어반폴리,사랑스러운 너,spotify:track:5mHwJYiy8r4ZVP7lByny84,2023,0.656,0.549,0,0.48,0.0,0.121,-5.447,1,0.0263,84.891,0.524,165877,4,12
+133,I Don't Know Why,Avii Garde,I Don't Know Why,spotify:track:51VtiYoFIfzx1PzZOuE84D,2023,4.03e-05,0.405,2,0.831,4.53e-06,0.254,-5.395,1,0.0333,172.054,0.475,196874,4,32
+134,It's not what I want,BBAHN,Café Anchorage OST Part.19 (Soundtrack),spotify:track:6tEAPcJcKXUfAs2QveWgpQ,2023,0.76,0.435,6,0.505,0.0,0.146,-5.445,1,0.0474,133.849,0.457,202575,4,12
+135,"Easy come, I like a tango!",Yojung,We are,spotify:track:2cG3NLxdVln7LoA38hPqF2,2023,0.113,0.737,7,0.604,0.000136,0.334,-6.433,1,0.0596,88.017,0.713,163750,4,17
+136,made in heaven,Gemstone,made in heaven,spotify:track:3rlxvsdieZRcZHzazH9cml,2023,0.225,0.439,8,0.553,0.0,0.127,-3.387,1,0.0282,137.9,0.323,266413,4,16
+137,Lonely Night (Prod. NE:ON),Cloudybay,Lonely Night,spotify:track:6kIyRauupuAUWtyUn0xlpy,2023,0.172,0.317,9,0.619,0.0,0.0963,-4.646,1,0.0477,182.335,0.274,238677,4,24
+138,오늘 안엔 Within Today,Echae Kang,The Granter,spotify:track:0QmYpCdJeT0c5qQTXanksV,2023,0.891,0.595,0,0.326,0.0164,0.106,-7.409,1,0.0335,84.991,0.241,216427,4,15
+139,120BPM,KyoungSeo,ONGOING,spotify:track:7pYiTMBG8sgPJvXZZ476i1,2023,0.305,0.652,9,0.844,0.0,0.0991,-1.802,1,0.0358,97.028,0.703,198987,4,45
+140,Invisible,Choisoowoong,STORY#26,spotify:track:1sYtgP1e0HJNlBw2g6DxHI,2023,0.725,0.652,9,0.207,0.0,0.195,-10.723,1,0.0364,113.832,0.153,280250,4,16
+141,One Hundred Love,LIA (ITZY),Romantic Doctor 3 OST Part.5,spotify:track:4tyvvXI34H0YILQctQr0N6,2023,0.844,0.534,8,0.356,0.0,0.0968,-6.854,1,0.0307,129.352,0.349,236308,4,50
+142,가자,The Ska Jazz Unit,가자,spotify:track:2CI1kM7d1EgUsYR50OInda,2023,0.248,0.807,8,0.499,3.07e-05,0.112,-7.241,1,0.0648,82.051,0.727,234923,4,12
+143,Nothing Feels Alright,The Sound,Nothing Feels Alright,spotify:track:0M2VpuGkcxo3IX4TZBMlVK,2023,5.94e-05,0.507,9,0.889,1.35e-05,0.127,-4.828,1,0.0427,140.059,0.444,240368,4,13
+144,Right Answer,1%,Right Answer,spotify:track:3xo5dvPkQLbofa59woCQMH,2023,0.303,0.713,6,0.743,0.0,0.131,-4.096,1,0.0285,103.963,0.701,212792,4,12
+145,A Tale of Hoteliers (Original Television Soundtrack) Pt.4 - Stay with me,Song Ga In,A Tale of Hoteliers (Original Television Soundtrack) Pt.4 - Stay with me,spotify:track:0OTMfsNFRxA27AfyUre2wZ,2023,0.448,0.531,1,0.572,0.0,0.22,-4.257,1,0.0295,94.99,0.172,235907,3,29
+146,ADDICT!ON,아이리 칸나,ADDICT!ON,spotify:track:1JJwRy1BpK6SFvd1InC6xt,2023,0.133,0.687,6,0.955,0.0,0.336,-1.759,1,0.127,127.955,0.717,206400,4,41
+147,"This precious night, this last night (feat. jooseoo_band)",Yu ji eun,"This precious night, this last night",spotify:track:0Xr8miTMUvPoOGdPs27uUz,2023,0.678,0.355,5,0.311,2.85e-06,0.212,-8.463,1,0.0307,71.383,0.323,231667,4,11
+148,"나의 사랑, 나의 그대",무성,"나의 사랑, 나의 그대",spotify:track:3ezQ77V3oI3ZFtjJDK6faK,2023,0.454,0.392,0,0.466,0.0,0.245,-4.299,1,0.0286,151.765,0.229,271872,3,11
+149,TANGJA TANGJA,JeongWoo Ko,CHOSUN ROMANCE,spotify:track:6hdgTzZsffw9EbfD6YfkPe,2023,0.315,0.686,4,0.805,0.0,0.29,-3.521,0,0.0328,138.031,0.817,198512,4,9
+150,0257,234,0257,spotify:track:70iajR3jBeVLgJ6gPiwR4j,2023,0.568,0.634,2,0.33,5.03e-05,0.146,-10.663,1,0.0376,172.067,0.543,177165,4,10
+151,I can't forget,CANDO,"Oh, Boy! OST Part.17 (Soundtrack)",spotify:track:6Z0WLXnpWWkHSgHTgUzw6Y,2023,0.688,0.531,11,0.428,0.0,0.313,-5.568,1,0.0305,131.654,0.209,204002,4,10
+152,karaoke love (Feat. Ugly Duck),SFC.JGR,karaoke love,spotify:track:6xAB0AmhaIfeGkSkVXGpJ9,2023,0.371,0.613,6,0.658,1.23e-05,0.0971,-8.72,0,0.126,75.917,0.491,213040,4,29
+153,HANGANG (Feat. BIG Naughty),Paul Kim,HANGANG,spotify:track:25QGSFaB28MnIp7CIX1Nkk,2023,0.186,0.744,11,0.72,0.0,0.38,-4.255,1,0.0304,105.053,0.419,199133,4,51
+154,Purple Love (Feat. Leellamarz),INJAE,Purple Love (Feat. Leellamarz),spotify:track:0Jo0mDbEb7eJYf4H13M2az,2023,0.397,0.571,7,0.725,0.0,0.315,-2.812,1,0.0441,159.803,0.57,196075,4,41
+155,WONDERLAND - English Ver.,TRI.BE,WONDERLAND (English Ver.),spotify:track:3NjXKo1nVrBfTzyFBflLCB,2023,0.299,0.737,6,0.785,0.0,0.139,-2.825,1,0.119,110.107,0.688,177533,4,39
+156,Driftin’,Xitsuh,Skyblueblack,spotify:track:4LaV9EJUhAwfwvVNS024wK,2023,0.427,0.681,6,0.59,0.00025,0.113,-6.965,1,0.0442,82.506,0.66,217500,4,16
+157,Silver Lining,Advanced,Silver Lining,spotify:track:1G7gRNjvHw7S8g9vx47Gj4,2023,0.0261,0.702,5,0.857,9.89e-05,0.213,-3.836,0,0.0447,99.986,0.498,190520,4,26
+158,The day of May,BF,The day of May,spotify:track:6cgWB5wse2npnt3OCXxHZV,2023,0.47,0.617,8,0.567,0.0,0.377,-6.1,1,0.0433,91.022,0.588,215500,4,22
+159,let me know (Feat. Jabillz),CRYBABY,let me know,spotify:track:365frZWnLF5oUD6sSuC29N,2023,0.678,0.81,2,0.557,3.4e-06,0.117,-6.112,0,0.118,100.013,0.65,193467,4,19
+160,Run Away,HEIZE,BASTIONS OST Part.2,spotify:track:0yFJe8RoDgZXjGliKLBGBY,2023,0.755,0.399,9,0.624,0.0,0.0945,-6.274,1,0.0597,169.835,0.295,168473,4,41
+162,light of you,The Stray,light of you,spotify:track:3S1MltwapdOGjxrMKqvDey,2023,0.759,0.562,0,0.473,0.0,0.166,-5.546,1,0.0364,125.803,0.25,223240,4,27
+163,EVEN SO,COOING,EVEN SO,spotify:track:3GYpV2gfKYofF6TFZgoFWx,2023,0.572,0.679,0,0.578,0.0,0.141,-4.844,1,0.0342,99.937,0.197,203427,4,29
+164,Why?,PLAVE,Why?,spotify:track:75bgkdHdg7ppBcHdLJkSBM,2023,0.49,0.843,0,0.567,0.00106,0.123,-5.569,1,0.0342,100.03,0.669,147373,4,64
+165,( ),Nam Dong Hyun,( ),spotify:track:4Xub3I7UXKGEwVFF9Bwlnv,2023,0.626,0.785,9,0.583,0.956,0.354,-9.628,0,0.0694,108.09,0.157,84583,3,25
+166,Love is Here,LUCY,Romance by Romance (Original Television Soundtrack) Pt. 1,spotify:track:57UqGZaCQFFLUbUZD0ejwx,2023,0.0601,0.649,0,0.649,0.0,0.106,-4.644,1,0.0305,113.986,0.468,213660,4,38
+167,BONVOYAGE,Dreamcatcher,[Apocalypse : From us],spotify:track:3Jnwl9zlbFNEqKQjydxLxe,2023,0.00417,0.487,5,0.858,0.0,0.149,-3.915,1,0.0603,157.962,0.523,213507,4,71
+168,Yellow Circle,채수빈,Yellow Circle,spotify:track:6LezRpxJ871VNvutDEXrBw,2023,0.0349,0.8,7,0.732,0.0,0.124,-3.745,1,0.0408,120.011,0.286,182773,4,48
+169,"I Love You, I'm Sorry",PATEKO,Patek on Wine,spotify:track:6XDfsMWnfJd46j3f0orVHF,2023,0.159,0.564,2,0.642,0.0,0.154,-5.489,1,0.0328,159.858,0.399,200880,4,36
+170,DOXA,SECRET NUMBER,DOXA,spotify:track:0bppWj37HjYmRdm0VAPwvq,2023,0.281,0.687,9,0.914,0.0,0.383,-1.503,0,0.0589,100.964,0.767,185213,4,57
+171,Bite Me,ENHYPEN,DARK BLOOD,spotify:track:7mpdNiaQvygj2rHoxkzMfa,2023,0.285,0.795,1,0.781,0.0,0.108,-4.647,1,0.141,104.972,0.687,157532,4,88
+172,Talk About Love,Lee Moon Sae,"The Good Bad Mother (Original Television Soundtrack, Pt. 6)",spotify:track:4jJG67ZARJRVBBIXMf0qpM,2023,0.75,0.523,3,0.499,0.118,0.187,-5.47,1,0.024,82.013,0.292,218000,3,48
+173,DO (Feat. LeeHi),Padi,Answer Answer,spotify:track:2MVEiDjCneHRZxmv10rb5l,2023,0.614,0.609,10,0.55,0.0,0.149,-7.163,0,0.0587,96.024,0.534,184908,4,46
+174,우리 둘만의 영화가,Jeong Dong Won,A movie just between us,spotify:track:4WznValRfibE40XCfrR64W,2023,0.317,0.48,0,0.427,0.0,0.106,-6.213,1,0.03,131.724,0.156,224507,4,23
+175,"Out of Control (Feat. slchld, oceanfromtheblue)",K.vsh,"Out of Control (Feat. slchld, oceanfromtheblue)",spotify:track:0n9tHQK3R9NWRbNuj44TGB,2023,0.439,0.635,11,0.487,0.0,0.121,-7.278,0,0.0909,131.601,0.171,277260,4,31
+176,Hate List (Feat. GIRIBOY),Choi Jungyoon,Emotional Train,spotify:track:14QGX0o0nEN56istLMwFu6,2023,0.732,0.657,2,0.62,0.000263,0.192,-7.388,1,0.0639,125.945,0.41,188841,4,32
+177,Flower(Long For You),Jang HeeWon,Rinza Noodle House (Original Television Soundtrack) Pt.2,spotify:track:2lsZoElIkFgYukTEgZQrZd,2023,0.881,0.544,0,0.278,0.0,0.0895,-10.126,1,0.0336,99.416,0.138,187627,3,30
+178,Ran into my First Love (feat. Conut),Seokman Cheon,Ran into my First Love,spotify:track:1jDDs7QYwyFUAoSw14FgG7,2023,0.633,0.795,5,0.507,1.69e-06,0.211,-6.432,1,0.0661,96.962,0.37,198000,4,18
+179,Blinded,ALEPH,Blinded,spotify:track:3k5xWgRecbkY5XzhpjIJ65,2023,0.675,0.623,9,0.587,0.00121,0.284,-7.216,1,0.0341,135.99,0.271,225882,4,31
+180,Just Like You,Doha (XEED),Love Mate OST Part.1 (Soundtrack),spotify:track:6TxisiJlSLPa3FlzcLHzUV,2023,0.721,0.733,2,0.563,0.0,0.152,-5.13,1,0.0261,105.998,0.699,225429,4,35
+181,Candy (Feat. Zion.T),Jay Park,Candy,spotify:track:0luFANDtNNjcBXKazh3dV8,2023,0.124,0.584,8,0.712,0.0,0.118,-7.215,1,0.204,103.914,0.649,186019,4,66
+182,ICKY,KARD,KARD 6th Mini Album 'ICKY',spotify:track:1OhotmnsJBmsHaKwACYMgJ,2023,0.0443,0.81,7,0.841,0.0,0.161,-1.843,1,0.097,112.002,0.697,179240,4,74
+183,Apocalypse Prod. PEEJAY,Wonstein,Apocalypse,spotify:track:6vrUC8qQyVvpKSloGLR8gB,2023,0.0454,0.913,7,0.501,0.0,0.117,-8.76,1,0.0653,130.055,0.402,136973,4,43
+184,May,Sweden Laundry,"May, Be Love",spotify:track:0rYz9zrp8hciVl2QmM1ZMA,2023,0.853,0.606,3,0.294,0.0,0.11,-9.211,1,0.0362,130.086,0.604,187987,3,25
+185,cracked,DONGHAE,Oh! Youngsim Pt. 2 (Original Soundtrack),spotify:track:2HlTb0DQEKxcr2755iNRzh,2023,0.0428,0.572,2,0.892,0.0,0.335,-4.104,1,0.0404,129.955,0.788,222080,4,34
+186,Susanne,Jukjae,My Perfect Stranger OST Part.4,spotify:track:7AyrPPnMRQktj7mdoWUP2n,2023,0.579,0.557,5,0.33,0.000129,0.106,-9.198,1,0.0301,74.746,0.408,215467,4,40
+187,Flower,SEOLA,Flower,spotify:track:6shssmBoxGBJSiE4ouxpyh,2023,0.834,0.612,4,0.549,1.98e-06,0.221,-6.529,1,0.0379,90.058,0.241,219613,4,33
+188,Shameless (Feat. Huh),Ourealgoat,O'L,spotify:track:1UUKDNmgFVg8rB8zVr9ZzM,2023,0.316,0.801,0,0.614,0.0,0.134,-6.41,1,0.0518,91.995,0.42,128804,4,34
+189,Candy Pink,Glen Check,Pulp,spotify:track:0fhDu7tCzkKEsWvwAZYHLH,2023,0.000116,0.305,4,0.803,0.00573,0.279,-3.577,1,0.0364,100.024,0.178,173173,4,37
+190,"anytime, anywhere (Feat. YEWON)",Bily Acoustie,"anytime, anywhere",spotify:track:1LJqvR2PsAKKgdHKBEJyFO,2023,0.0816,0.609,5,0.615,0.0,0.109,-5.201,1,0.0346,93.849,0.365,184330,4,29
+191,wish you all to be happy,Han All,wish you all to be happy,spotify:track:3vHAC5HrdyefPr5biodJGQ,2023,0.859,0.78,2,0.357,0.0,0.104,-7.383,1,0.035,112.131,0.526,232588,4,26
+192,FREEDOM,JOOHONEY,LIGHTS,spotify:track:5UA91Wf0dAxnCPbFdJJv0a,2023,0.252,0.614,0,0.788,0.0,0.267,-2.879,0,0.068,138.002,0.37,211480,4,68
+193,Good Day (My love X LEESEOKHOON),Lee Seok Hoon,Good Day (My love X LEESEOKHOON),spotify:track:7tWjUGBX3NT5gBkXqdOCrO,2023,0.676,0.599,8,0.7,0.0,0.116,-6.067,1,0.0646,159.707,0.426,245027,4,32
+194,"Part of Your World - From ""The Little Mermaid""/Korean Soundtrack Version",Danielle,"Part of Your World (From ""The Little Mermaid""/Korean Soundtrack Version)",spotify:track:2ouYvmVxhKfNR1LHrMLHqM,2023,0.914,0.382,6,0.177,0.0,0.108,-13.733,1,0.0423,81.708,0.309,214373,3,61
+195,For My Love(2023),Ulala Session,"Beginning is the First Kiss (Original Television Soundtrack), Pt.5",spotify:track:3V8fMqqEnhsUuG77YXQMeY,2023,0.59,0.437,0,0.521,0.0,0.179,-5.392,1,0.033,135.673,0.19,260653,4,22
+196,Blocka freestyle,lobonabeat!,Trapstar Lifestyle (Deluxe),spotify:track:3jNcFq3v3gs2YmzoWiFK9h,2023,0.084,0.845,8,0.532,0.000213,0.0708,-6.03,1,0.0814,75.019,0.302,125000,4,34
+197,Good Thing,Ja Jung,Good Thing,spotify:track:3pzUFmvTXX1yRD2UYM0cCM,2023,0.473,0.437,5,0.746,0.0,0.118,-2.304,1,0.0475,173.736,0.243,233827,4,26
+198,On Your Side,YOUNGTAK,On Your Side,spotify:track:6DmrMG6iTGu2e086WHEPtw,2023,0.13,0.7,6,0.65,0.0,0.0683,-3.314,0,0.0453,104.034,0.736,166960,4,26
+199,Withered bouquet,BUMJIN,Withered bouquet,spotify:track:6toDIsMv8FRjdfMgC4GrrC,2023,0.573,0.557,10,0.684,0.0,0.0679,-4.53,0,0.061,180.065,0.695,194167,4,23
+200,Secret Crush,Sogaksogak,Secret Crush,spotify:track:5VDBm4oGPDseD1ybEeVodm,2023,0.55,0.687,5,0.586,0.0,0.056,-4.857,1,0.115,91.073,0.686,148973,4,25
+201,Blooming Today,Sung Si Kyung,Blooming Today,spotify:track:7bFLEPt1ZpePXATqdRWbZu,2023,0.771,0.496,7,0.427,0.000142,0.108,-9.015,1,0.0277,75.056,0.204,182800,3,35
+202,GAP! (Prod. 22MACKIE),Jackal,VIRTUOSO,spotify:track:1CXG82hpPgEGoSgM3EDHbU,2023,0.172,0.824,9,0.887,0.00281,0.166,-2.007,1,0.148,150.054,0.85,234229,4,18
+203,TOMATO,DNEIRF,4SEASONS,spotify:track:6fegyAyWm9a5APlcemKOT8,2023,0.588,0.868,0,0.522,0.0,0.0862,-5.962,1,0.0721,91.98,0.805,138323,4,19
+204,난 그저 바라만 보죠,Yeoeun,난 그저 바라만 보죠,spotify:track:4EHY6nYFximCyQErnOF6rv,2023,0.754,0.47,5,0.474,0.0,0.0925,-4.374,1,0.0316,136.073,0.231,201035,4,16
+205,REAL LOVE,GRAM,REAL LOVE,spotify:track:5QpLGoTqPTiB1Dv4hscJ4W,2023,0.384,0.661,1,0.58,0.0,0.219,-4.728,1,0.196,73.047,0.885,193160,4,19
+206,My tempo,천재호영,My tempo,spotify:track:6QHMUiXsbFfc7xUwQ8Q7ru,2023,0.0293,0.859,7,0.563,0.000473,0.163,-7.179,0,0.227,83.026,0.687,147397,4,17
+207,YOZORA NO SHOOTING STAR,D-Hack,ASHITA NO D,spotify:track:1LYK4G9Z0yIAyi5kAwx2NA,2023,0.684,0.526,0,0.612,0.0,0.41,-6.019,0,0.0536,169.929,0.346,230824,4,20
+208,Dirty,Holynn,Dirty,spotify:track:6u5kgMRufqchhKuu10X2Wy,2023,0.11,0.739,6,0.602,0.0,0.361,-3.945,0,0.0782,154.929,0.884,174520,4,20
+209,Empty (feat. ivory),Masterclass,Empty (feat. ivory),spotify:track:65Rulu6wvygsVVSrYpn9RD,2023,0.913,0.679,8,0.305,0.049,0.0992,-15.421,1,0.29,89.97,0.172,220000,4,19
+210,B.T,YUN HYUN JI,B.T,spotify:track:176b8YUipX6fJi4SQNmMoK,2023,0.707,0.736,5,0.536,0.000452,0.0783,-7.82,0,0.0585,79.991,0.107,197451,4,17
+211,It's enough for me,Ran,It's enough for me,spotify:track:77lj6GT3Gz746ynOJZNjg7,2023,0.759,0.413,11,0.501,0.0,0.131,-5.389,1,0.0356,129.852,0.243,189616,4,15
+212,Cloud Nine,Slowcity,Cloud Nine,spotify:track:76Z6ZpiEWfyWvt4w77bk4M,2023,0.115,0.518,8,0.813,0.0,0.236,-4.468,1,0.0831,177.881,0.711,238053,4,16
+213,I'm glad I waited,Sin Ye Young,I'm glad I waited,spotify:track:3pBE270KLKUjGo5aVF1ecd,2023,0.499,0.476,8,0.542,0.0,0.165,-4.664,1,0.0293,131.737,0.222,235307,4,31
+214,Kiss The Rain,THAMA,"Tale of the Nine Tailed 1938, Pt. 3 (Original Television Soundtrack)",spotify:track:00ZvMUjMundVCBeCGqhSf7,2023,0.674,0.71,8,0.29,8.22e-06,0.119,-7.28,1,0.0294,116.908,0.409,152963,4,44
+215,Confession Day,GUNHO,"Love Interference 2023 (Original Television Soundtrack), Pt. 14",spotify:track:3KZxUY5gGYzZ1W1NPe5Mbm,2023,0.782,0.807,7,0.412,0.0,0.2,-6.447,1,0.038,117.071,0.7,233846,4,28
+216,By My Side,JAEMAN,By My Side,spotify:track:2k3TjNKHOXPAd1dCZCA911,2023,0.827,0.664,2,0.381,0.0,0.112,-6.307,1,0.0257,80.006,0.473,197440,4,24
+217,FEELiNGs (New Love),Deepshower,FEELiNGs (New Love),spotify:track:6DNzxYudtPubafOD140YLS,2023,0.00196,0.572,5,0.722,1.72e-06,0.0843,-5.644,0,0.0991,105.228,0.206,170611,4,25
+218,plastic cup some little wine,Ryo,1 zip,spotify:track:5mdRWEEuQONS0DqIl08FDg,2023,0.0346,0.725,0,0.503,0.0,0.141,-8.209,1,0.0334,124.98,0.833,159115,4,15
+219,Love me like you do,yukon,my Imperfections,spotify:track:3bBhhf0aalrrfvUbOb3nrH,2023,0.758,0.244,10,0.45,0.0,0.369,-5.304,0,0.0309,80.672,0.201,208453,4,23
+220,Maybe,1set,Maybe,spotify:track:0pa42R9TePbscKU8V2mQ8u,2023,0.535,0.606,4,0.482,0.0,0.216,-5.896,0,0.072,171.923,0.649,207707,4,21
+221,Blue Moon,N.Flying,Once in a BLUE MOON,spotify:track:77WBsNSTTDrp7rkZEsbAcv,2023,0.175,0.64,0,0.831,0.0,0.124,-3.399,0,0.0744,105.093,0.807,215093,4,52
+222,Salvation,Yang Da Il,Langrisser Mobile OST - Salvation,spotify:track:3j6uiTJyvtaWcjVtE6Tmpx,2023,0.00563,0.38,1,0.851,0.0,0.26,-5.379,1,0.153,88.861,0.509,226915,4,25
+223,A Day For Me,안신애,Doctor Cha (Original Television Soundtrack) Pt. 5,spotify:track:5bbGJRlU89huFWFR3GE42e,2023,0.2,0.554,4,0.86,0.0,0.372,-3.393,1,0.0343,129.916,0.615,148587,4,46
+224,WORK HARD PLAY HARD,Rad Museum,WORK HARD PLAY HARD,spotify:track:7m4Ney6RDEtKQf6n52F1qA,2023,0.122,0.697,10,0.642,3.78e-06,0.15,-6.329,0,0.0865,155.029,0.59,213000,4,38
+225,I Know (feat. Jayroh),NONE,I Know (feat. Jayroh),spotify:track:2tc6f5oJhGyf5FA6NbE6YJ,2023,0.504,0.629,5,0.576,0.0,0.118,-5.537,1,0.0436,124.018,0.314,240067,4,16
+226,OH MY GOSH,YooJeong,OH MY GOSH,spotify:track:5CdnbfLGTouxwtFH5b9SUv,2023,0.344,0.869,1,0.667,0.0,0.0714,-4.363,1,0.0333,106.015,0.927,147733,4,17
+227,없었던 것처럼,수빈,없었던 것처럼,spotify:track:4jMb0pcQujim9Iw0hVXMto,2023,0.0201,0.229,6,0.839,0.0,0.121,-1.838,1,0.0464,180.081,0.472,221413,4,15
+228,Eternal Love,Kwon Byul,Eternal Love,spotify:track:0hJFG25hI8EpNPHavVVlDZ,2023,0.977,0.384,1,0.236,0.000764,0.108,-8.232,1,0.0379,180.782,0.2,149500,3,14
+229,IS YOU,Kim Seheon,IS YOU,spotify:track:5hGMcYsV6ww0eykLUyutrf,2023,0.288,0.641,1,0.842,0.0,0.0978,-5.281,1,0.0347,94.994,0.188,106554,4,18
+230,Rachacha,nautilus,"The Real has come! (Original Television Soundtrack), Pt.2",spotify:track:7hPwwu8WY6khgbieQZntAS,2023,0.183,0.716,0,0.792,0.0,0.285,-2.687,1,0.122,105.004,0.713,226907,4,18
+231,"Simple Life (feat. YEYEBEEN, CHOILB)",Coa White,Simple Life,spotify:track:2ZKGfsJWWBwsQNILZ6MyhN,2023,0.444,0.879,0,0.648,0.0,0.0732,-5.859,1,0.324,137.927,0.866,185250,4,19
+232,Daisy (feat. Yellon),DOJIN,DAISY (feat. Yellon),spotify:track:4voOUoG96IUFW9TW4K8E1Q,2023,0.522,0.757,0,0.542,0.0,0.0899,-4.804,1,0.142,172.048,0.803,138663,4,24
+233,"Cat, work for me",Homemade recording,"Cat, work for me",spotify:track:2NXf2ErFCHX3Gta6TvBcmo,2023,0.712,0.771,10,0.256,0.0,0.122,-11.608,1,0.0426,119.815,0.591,182187,4,14
+234,rotten on the inside,REBENN,rotten on the inside,spotify:track:6gxaJhYFNYhzQWJH01JqR3,2023,0.628,0.744,5,0.549,1.15e-06,0.0975,-6.644,1,0.0322,160.039,0.716,177937,4,29
+235,Keep going,Kim Min Wool,"Oh, Boy! OST Part.16 (Soundtrack)",spotify:track:6aLnnRufSBBoueHTvOS9U3,2023,0.739,0.452,7,0.558,0.0,0.11,-3.835,1,0.0351,134.816,0.204,286894,4,12
+236,Something Like That,Song Pu Reum,Something Like That,spotify:track:2Yg4KA2rOakUT7D82XSLVc,2023,0.644,0.471,10,0.516,0.0,0.0729,-3.606,1,0.0325,133.251,0.186,244000,4,22
+237,자유 FREEDOM,CADEJO,자유 FREEDOM,spotify:track:7n25ZC4QUrpTCI9Nlb6yeK,2023,0.0393,0.743,0,0.734,0.234,0.047,-9.074,1,0.0694,113.445,0.963,152000,4,20
+238,Love After Breakup (feat. Jubora) - 2023 Remastered,1sagain,Love After Breakup (feat. Jubora) [2023 Remastered],spotify:track:2PQYxgSMFIRgpg9U5Et94z,2023,0.241,0.671,3,0.754,0.0,0.818,-4.15,0,0.0437,103.003,0.56,224093,4,14
+239,DADA,MaseWonder,DADA,spotify:track:0z4IJscvJkjGnw7UEFe0oZ,2023,0.104,0.552,7,0.54,0.0,0.0721,-6.805,1,0.0679,180.937,0.342,150064,3,15
+240,Our Sea,Norwegian Wood,Our Sea,spotify:track:6ODiDwWoMXmLiRWuTcB088,2023,0.91,0.392,8,0.215,4.09e-05,0.124,-10.511,1,0.0334,128.335,0.219,202479,3,17
+241,insomnia (feat. KURO),16,insomnia (feat. KURO),spotify:track:7Jartabvap5nlDW9IGXrPd,2023,0.164,0.751,0,0.547,0.0,0.403,-5.148,0,0.0349,131.985,0.391,227187,4,25
+242,Still You,SEUNGKWAN,Romantic Doctor 3 OST Part.4,spotify:track:7pIpkUJOiFghCDLxono6qC,2023,0.867,0.541,2,0.594,1.31e-05,0.109,-6.761,1,0.031,139.895,0.191,229714,4,62
+243,I Guess I Loved You,LEE CHANGSUB,I Guess I Loved You,spotify:track:1xhWTGxEJgay2ZjMsaGObi,2023,0.45,0.637,5,0.644,0.0,0.0741,-3.837,0,0.0256,93.022,0.395,236000,4,41
+244,"Maindish (feat. Choo, YLN Foreign)",Mac Kidd,Maindish,spotify:track:4n4Q1PkmZSIhtH4MNdQov1,2023,0.369,0.903,1,0.791,2.29e-06,0.122,-7.156,1,0.124,140.057,0.365,222037,4,13
+245,Just Love Me Like Now,Lee Chae Bin,Just Love Me Like Now,spotify:track:6R5YSjbXW4Co1nZLPG3RYv,2023,0.5,0.633,6,0.61,0.0,0.267,-4.663,1,0.0423,94.011,0.485,171373,4,16
+246,Shining Star,AleXa,BASTIONS OST Part.1,spotify:track:1Sn0YHQ0zmvqVNYVNMne5D,2023,0.0423,0.849,1,0.87,0.0,0.0273,-2.853,1,0.11,117.974,0.719,192973,4,32
+247,Infp,Ha Sang Wook,Infp,spotify:track:47chwUuIgs2BbJUJk7XP3y,2023,0.722,0.428,5,0.228,0.0,0.125,-8.697,1,0.0317,132.082,0.34,242707,4,14
+248,Maze,HANDAM,Maze,spotify:track:4ajdU7CN9sShzGyrWh4XdE,2023,0.0308,0.769,5,0.772,0.0,0.272,-4.2,0,0.0417,122.031,0.835,199920,4,23
+249,THE PARTY SONG,umu,THE PARTY SONG,spotify:track:4mdzylA0MEiuaW2NTUdmuW,2023,0.00044,0.502,0,0.578,0.00206,0.0951,-4.017,1,0.0791,165.003,0.5,150453,4,29
+250,I miss u,Joo Hyunmin,I miss u,spotify:track:2AyQZlY4FIesMpQwKskAbp,2023,0.842,0.493,6,0.381,0.0,0.106,-4.871,1,0.0298,131.967,0.265,228807,4,12
+251,Hear Your Voice (Feat. Seungmin),Jxxn,Cosmic Love Vol.3,spotify:track:0NSC9RRU5QjbKobSZ9vTMm,2023,0.415,0.551,11,0.597,0.00243,0.0979,-5.998,1,0.0302,180.014,0.354,176000,4,14
+252,오랜 별,The Ade,오랜 별,spotify:track:4d96aB4T239laPvM8NEiza,2023,0.776,0.572,8,0.589,0.0,0.0919,-4.095,1,0.0312,126.009,0.552,260760,4,21
+253,Umbrella,Unchan,Umbrella,spotify:track:1F5DmQtdA3JW618PlbkiNV,2023,0.897,0.545,3,0.217,0.0,0.373,-8.796,1,0.0335,173.786,0.252,203590,4,17
+254,Somewhere,Heo JeongHyuk,Bud Days,spotify:track:3X0gJfYpFCqzzbyWcctAhr,2023,0.863,0.675,4,0.49,0.0106,0.371,-11.734,1,0.0387,110.015,0.375,195291,4,11
+255,품,Kajin,요조신사 마초숙녀 (Original Webtoon Soundtrack) Pt. 29,spotify:track:4BhPMX4CcdGvd9KIQNIhnz,2023,0.75,0.293,2,0.437,0.0,0.527,-5.256,1,0.0301,140.267,0.204,224048,4,11
+256,That you came to me,Asahi,That you came to me,spotify:track:48Dk5wZQNXMmxqE8B2Glt4,2023,0.639,0.818,6,0.643,0.0,0.092,-4.77,1,0.0346,113.009,0.876,176480,4,13
+257,Magic Lily,Ahn Sung Hoon,Music Source of Mr.Lotto Best PART2,spotify:track:4C7ImWt1WNZqCDYhl9TA5p,2023,0.0627,0.509,0,0.682,9.68e-06,0.273,-5.599,0,0.0424,114.351,0.384,207000,1,12
+258,Buddy,Minsu,Buddy,spotify:track:4AZBOE69USvW8mRVDxQLZM,2023,0.624,0.712,8,0.697,0.00582,0.106,-5.228,1,0.253,167.931,0.734,209074,4,34
+259,Mr. Mood,Goopy,Mr. Mood,spotify:track:625V2w5OOIYwF9MQE3FrEG,2023,0.0258,0.839,8,0.403,0.00045,0.0867,-5.455,1,0.0615,95.003,0.896,123107,4,27
+260,SAVE IT,YURI,SAVE IT,spotify:track:18Y1CMscDEV1hhuM7HntTM,2023,0.226,0.656,2,0.797,0.0,0.345,-4.791,0,0.15,171.966,0.562,207853,4,22
+261,Karma,BLACKSWAN,That Karma,spotify:track:0AZ5C3305mRKWX1x0hDF39,2023,0.03,0.6,7,0.902,0.000308,0.175,-3.357,1,0.059,173.925,0.791,195467,4,62
+262,Lifestyle (feat. DAMINI),SPR safety,Lifestyle (feat. DAMINI),spotify:track:1PhBK3GVk6JGKTYWmjOQ3C,2023,0.109,0.656,10,0.891,0.0,0.0381,-3.431,0,0.362,160.269,0.792,168891,4,13
+263,MEA ROSA,Hoon(UKISS),MEA ROSA,spotify:track:5OIbDGETR0u1Qwwuwf3sUu,2023,0.0427,0.696,5,0.808,3.94e-05,0.157,-5.498,0,0.0739,100.003,0.394,239647,4,18
+264,MAYBE I'M KCRAZY,Sik-K,ALBUM ON THE WAY!,spotify:track:3G44OrPcpP7NG8yb92bhnr,2023,0.0531,0.593,1,0.738,0.0,0.249,-4.439,1,0.0377,140.075,0.136,180360,4,50
+265,Next to Me,ATBO,The Beginning : 飛上,spotify:track:35pgNknwrEIUQByD7ZcGQH,2023,0.0702,0.762,5,0.881,0.0,0.052,-2.368,0,0.0954,95.993,0.686,200413,4,47
+266,The Summer,JUNGWOO,The Summer,spotify:track:5eJeHmIyk2BW2flXND29KN,2023,0.937,0.478,11,0.132,0.000106,0.0991,-12.854,0,0.0314,75.481,0.16,147336,4,26
+267,Presentiment,Son June Hyuk,Presentiment,spotify:track:73vxAVH2iJfEofp8gKfh55,2023,0.872,0.377,4,0.432,0.0,0.256,-5.253,0,0.0337,135.462,0.545,228498,4,11
+268,Only One Person (My love X Lee Hong Ki (FTISLAND)),Lee Hong Ki (FTISLAND),Only One Person (My love X Lee Hong Ki (FTISLAND)),spotify:track:3vZlTN0MeWV9DCYMfvny7d,2023,0.477,0.469,4,0.468,0.0,0.133,-5.22,1,0.0305,129.692,0.109,256933,4,34
+269,Charismatic,PICK on the top,QUEENDOM PUZZLE TEAM BATTLE 1,spotify:track:0idLJk5hSakC3o2PaN5NGk,2023,0.299,0.773,2,0.792,0.0,0.195,-1.876,1,0.21,149.869,0.702,186733,4,52
+270,달빛도시 (feat. doiiob),Myeong E-Wol,달빛도시,spotify:track:3OUMjVlNtOpI8uWh5B9Db5,2023,0.31,0.763,5,0.756,0.00434,0.194,-1.905,0,0.0568,109.993,0.8,232025,4,11
+271,Vestige,SOMA,Vestige,spotify:track:7sUC3dCZfxbyjBzKAscZDC,2023,0.00196,0.419,4,0.701,0.718,0.208,-5.519,0,0.128,172.009,0.0476,397385,4,21
+272,Paint over,Kim Areum,"True to Love, Pt. 8 (Original Soundtrack)",spotify:track:3A6MocMyws8KUyyeln41L6,2023,0.182,0.698,5,0.688,0.0,0.271,-5.878,1,0.0534,100.006,0.742,206100,4,37
+273,Look at My Shoes!,Chan,Look at My Shoes!,spotify:track:6C0vwVXBfCTI3Ar1Eo7suc,2023,0.105,0.891,4,0.814,0.0,0.0512,-5.529,0,0.0826,121.999,0.975,159587,4,36
+274,collapse,오현우,collapse,spotify:track:1dT60t9vRctjI7maTf0n1h,2023,0.948,0.354,1,0.255,1.03e-05,0.0784,-8.509,1,0.0355,96.719,0.546,243474,4,20
+275,Marry Me,Hwang Inhyeock,Marry Me,spotify:track:60XDBmcTUepDSF6CvCsUJQ,2023,0.872,0.436,6,0.339,0.0,0.137,-6.571,1,0.0311,127.0,0.297,238133,4,18
+276,To Me,J.Fla,To Me,spotify:track:37PbwartKkgaD6DdnZ41fG,2023,0.693,0.751,4,0.443,0.0,0.114,-7.246,1,0.0466,127.815,0.708,160362,4,34
+277,"HIT N"" RUN",kuzi,Joyrider's Avenue,spotify:track:4klhpAWhKZtTO7QOYvZdfA,2023,0.389,0.816,1,0.464,0.0,0.112,-9.414,1,0.0793,149.943,0.309,172822,4,19
+278,Summer night,My Aunt Mary,Right NOW,spotify:track:3881Qo8Uh8294U4o38cgC4,2023,0.00232,0.484,5,0.765,0.0,0.112,-5.971,1,0.0382,122.022,0.212,324404,4,21
+279,Queencard,(G)I-DLE,I feel,spotify:track:4uOBL4DDWWVx4RhYKlPbPC,2023,0.0327,0.815,4,0.834,0.000268,0.27,-2.828,0,0.0475,129.989,0.692,161240,4,88
+280,Crazy Like That,VERIVERY,Liminality - EP.DREAM,spotify:track:3YKVnTgamsTa6zzimeaJXc,2023,0.0657,0.899,7,0.888,0.0,0.302,-3.917,0,0.158,116.989,0.72,191987,4,53
+281,Antinomy,Jukjae,"Caught Between Marriage & Divorce Season 2, Pt. 2 (Original Soundtrack)",spotify:track:1tlqn6sGFf5ycOzkxhOLYy,2023,0.279,0.637,1,0.571,0.00306,0.111,-6.778,1,0.0344,83.997,0.531,233874,4,32
+282,SENTOSA (feat. 1ho & Imreu),Airman,Attitude #5,spotify:track:33AbYzhqSZkYzmiJNrfnb6,2023,0.294,0.565,5,0.635,0.0,0.0715,-4.629,1,0.0238,90.07,0.404,177267,4,36
+283,Movie Star,MIJOO,Movie Star,spotify:track:4W8ixcvNvwWW5cdYSNlsiz,2023,0.0743,0.734,6,0.894,0.0,0.0598,-2.936,1,0.135,125.034,0.749,188427,4,67
+284,WATERFALL,YOUNITE,BIT Part.1,spotify:track:4QxTg2DuJPzY8pXNDWAcow,2023,0.16,0.755,0,0.879,0.0,0.234,-3.406,0,0.0612,105.029,0.551,180495,4,52
+285,LOVE YOU! (Feat. Tablo),Kim Feel,LOVE YOU!,spotify:track:2jhWyW4kNrVnN2wpu9jhVZ,2023,0.0288,0.623,1,0.81,0.000741,0.108,-4.148,0,0.0479,147.988,0.819,185486,4,48
+286,lilac,J_ust,Someone's playlist,spotify:track:7tR89psGizV85a9gkOk9E6,2023,0.0777,0.477,6,0.601,0.0,0.0752,-4.625,0,0.0477,84.84,0.558,192768,4,34
+287,The Road not Taken,JeHwi,"The Good Bad Mother (Original Television Soundtrack, Pt. 5)",spotify:track:17BytRtBL3ajgsOQD1cCxT,2023,0.802,0.461,0,0.388,2.07e-06,0.112,-8.001,1,0.0265,159.892,0.21,254000,3,47
+288,Lie to me,AVOKID,Lie To Me,spotify:track:3Ycg3Xrhs5QU21JJqNNBSb,2023,0.283,0.665,7,0.749,0.0,0.0622,-3.957,1,0.0315,87.94,0.24,154091,4,23
+289,WHAT,99' Nasty Kidz,WHAT,spotify:track:0PnKsGNKY7CFdqlM7qV7uB,2023,0.0179,0.835,1,0.795,1.02e-05,0.0649,-4.931,1,0.295,171.953,0.342,147907,4,21
+290,"Without you,",JOSEOBIN,"Without you,",spotify:track:2klAB742FuYqSX1WvH1cCU,2023,0.708,0.373,8,0.305,1.28e-06,0.106,-5.987,1,0.0311,67.96,0.29,222667,4,20
+291,"Still Our Love Continue (My love X KYUHYUN, Jeong Eun Ji)",KYUHYUN,"Still Our Love Continue (My love X KYUHYUN, Jeong Eun Ji)",spotify:track:5Q4TkZMBO5LKcI7wqbla8V,2023,0.607,0.43,11,0.449,0.0,0.126,-6.493,1,0.0318,139.965,0.177,260853,4,46
+292,Before the Petals Fall,CHEN,Before the Petals Fall,spotify:track:3IgT7VsDxWZsg90OrqK90t,2023,0.551,0.599,2,0.553,0.0,0.177,-4.667,1,0.0324,77.939,0.378,229347,4,56
+293,Like You Was To Me,Ha Hyun Sang,My Perfect Stranger OST Part.3,spotify:track:4zxZIysVIVn0vEg3MvrJsD,2023,0.468,0.549,9,0.462,0.0,0.257,-6.963,1,0.0267,67.031,0.186,271973,4,39
+294,Killed Damn Song,Lee Heemoon,SPANGLE,spotify:track:2lzVlWAhr3DHkeTacYbMKJ,2023,0.17,0.778,1,0.533,0.0156,0.094,-6.12,1,0.0679,120.859,0.822,230720,4,17
+295,COCO CHERRY CAKE,Queen WA$ABII,COCO CHERRY CAKE,spotify:track:4mV39g1kHlRJqcNShoET1V,2023,0.0161,0.835,7,0.766,0.0,0.113,-3.989,1,0.134,111.965,0.573,158333,4,38
+296,I wanna be free,Rainbow note,I wanna be free,spotify:track:14aB5V0cYhcMCS7wwYm7J9,2023,0.045,0.679,11,0.915,0.0,0.33,-3.44,0,0.0606,101.985,0.663,212688,4,26
+297,Serenade,twlv,Serenade,spotify:track:61HkJMsHYGgtPOQ7He56sQ,2023,0.839,0.687,4,0.341,0.0,0.108,-6.912,0,0.0312,149.903,0.479,194195,4,36
+298,Salad Days,iiso,Salad Days,spotify:track:74QAbcyw4wt5cN8QX22pMM,2023,0.0245,0.713,6,0.92,0.8,0.131,-7.301,0,0.0545,161.065,0.91,121685,4,42
+299,MIDNIGHT SKY,XODIAC,MIDNIGHT SKY,spotify:track:77kIsS5XZyM1QQMUsJOiU3,2023,0.314,0.667,3,0.703,0.0,0.138,-4.482,1,0.0544,119.902,0.311,210480,4,43
+300,Upside Down,9001,Upside Down,spotify:track:6VlmSckVaiPu6XOIdqwFX2,2023,0.00334,0.586,1,0.783,0.0,0.328,-2.599,0,0.0894,164.965,0.86,154000,4,36
+301,Nightmare,Kyuri,"Family, Pt. 4 (Original Television Soundtrack)",spotify:track:2Y0xn1ljw8hQQPd3YXF5ue,2023,0.669,0.436,5,0.371,7.94e-06,0.1,-6.852,0,0.0282,86.99,0.172,220227,4,38
+302,Blessin,NSW yoon,Blessin,spotify:track:2zGPJuadZyPGeVILObLb0o,2023,0.168,0.854,1,0.732,0.0,0.103,-5.053,1,0.159,154.005,0.527,113084,4,37
+303,DICKIES,NON SMOKERS CLUB,DICKIES,spotify:track:5lKGbQJf0EwmTWHSZp2N3B,2023,0.0521,0.843,7,0.674,0.0,0.351,-5.647,1,0.0528,89.962,0.394,206520,4,20
+304,By My Side (Feat. nynas),J.BASS,By My Side,spotify:track:0hmcpSZmbOaIgscI2Uv3VG,2023,0.0795,0.764,0,0.854,0.00722,0.453,-4.394,1,0.0472,100.0,0.934,150080,4,33
+305,Hi,Nahee,Hi,spotify:track:06tONlkQEvzlSnpGJVRJCc,2023,0.444,0.6,7,0.624,0.0,0.212,-6.753,1,0.0492,87.92,0.766,189037,4,28
+306,Nostalgia,KOYO,Nostalgia,spotify:track:2lOH1ov1D0yP9W6enZ3qGj,2023,0.183,0.56,8,0.813,0.0,0.127,-3.712,1,0.0509,98.895,0.722,220153,4,19
+307,Eternal return,GYE0M,Eternal return,spotify:track:5q6sBE797rsC4HsXMkfZU9,2023,0.953,0.527,9,0.261,0.0173,0.0901,-13.989,1,0.0341,115.6,0.247,223966,4,25
+308,glowing,XIMON,[ch :g lowing],spotify:track:3dV49tBUKuO86sq5HhKhFB,2023,0.361,0.497,6,0.549,0.0,0.215,-8.49,1,0.132,140.659,0.602,173239,4,17
+309,ISLAND,The Wind,Beginning : The Wind Page,spotify:track:5d5uB8YAUkG5zNf7yp4Cmk,2023,0.0143,0.665,8,0.919,0.0,0.213,-2.031,1,0.0658,109.966,0.701,201013,4,52
+310,Ain't No Joke,Jung In,Queen of masks (Original Television Soundtrack) Pt.3,spotify:track:4ce1g0lHzZRENMvEaY5ZHZ,2023,0.266,0.748,4,0.683,0.000153,0.0702,-4.751,1,0.109,120.013,0.648,210044,4,28
+311,Even Silently Cry(2023),Lee A Young,"Beginning is the First Kiss (Original Television Soundtrack), Pt.4",spotify:track:7zVeCI0asI0C42OQtAl3nD,2023,0.726,0.617,8,0.592,0.0,0.103,-5.142,0,0.0311,119.959,0.275,279227,4,29
+312,Wake Up,SOULBYSEL,SOULBYSEL Compilation 05,spotify:track:6l6EPz5kfTHW6gCpRQXEQo,2023,0.341,0.738,8,0.399,0.0,0.115,-7.548,1,0.049,99.019,0.317,185400,4,51
+313,Let's eat,ggondaehee,Let's eat,spotify:track:6AuBnYBgy9kbSR2lNa1X02,2023,0.812,0.443,10,0.485,0.0,0.11,-5.681,1,0.0349,85.52,0.175,232040,4,17
+314,Masquerade (Korean Ver.),MIDNATT,Masquerade,spotify:track:5PZA7uiIdIvRMTPftv0LF9,2023,0.176,0.745,4,0.63,0.0,0.116,-7.807,0,0.119,107.987,0.667,205267,4,46
+315,Sing!,Band Nah,Sing!,spotify:track:5rYLgQjPbhGjzqDqekXEzM,2023,0.0237,0.829,0,0.595,0.0,0.296,-6.594,1,0.0356,136.015,0.902,195000,4,32
+316,Fall In Love,SECRET NUMBER,Love Alarm CLAP! CLAP! CLAP! OST,spotify:track:4phlOc7UwErl5sRQb4n4S1,2023,0.563,0.38,3,0.736,0.0,0.109,-4.479,1,0.0437,159.819,0.0799,250293,4,50
+317,Just do,MISO,Oh! Youngsim Pt. 1 (Original Soundtrack),spotify:track:2jD9GOutiL5zKpqh6PDzsj,2023,0.156,0.758,6,0.715,1.2e-06,0.19,-3.724,1,0.0325,137.014,0.923,176774,4,27
+318,"Beautiful Thing (Feat. Jaeyeon, Kim Suyoung)",Clazziquai,"Beautiful Thing (Feat. Jaeyeon, Kim Suyoung)",spotify:track:40ERZnjmT1ycIA0mb8X1Oj,2023,0.317,0.594,10,0.592,0.0,0.319,-7.342,1,0.088,171.973,0.608,171627,4,32
+319,I couldn't catch you,YOONWON,I couldn't catch you,spotify:track:0Kj4ozMvl7YS9mYScwqxWU,2023,0.698,0.429,1,0.511,0.0,0.111,-6.116,1,0.2,189.639,0.492,240000,4,33
+320,My Ultimate First Love,10cm,5.4 [My Ultimate First Love],spotify:track:0CTjpVWIfGtKKrluFFF0Ua,2023,0.0686,0.546,3,0.643,0.0,0.184,-2.882,1,0.0328,105.449,0.439,266147,4,54
+321,Heaven,HYNN,Heaven,spotify:track:4Ohe61evYAILzlyhSjd7Eq,2023,0.45,0.538,7,0.676,0.0,0.0851,-3.985,1,0.0386,90.057,0.264,223213,4,39
+322,Candyfloss,HYNGSN,NEW TEETH,spotify:track:6y1fjojRiAE2ZjqXNln4s7,2023,0.402,0.644,6,0.573,3.8e-06,0.103,-4.33,1,0.0956,178.08,0.806,196175,4,20
+323,i,Kim Gyeol,i,spotify:track:6TgZn4L1lPFBDSSBYUENOH,2023,0.529,0.685,7,0.417,0.0,0.0613,-6.683,1,0.0692,149.457,0.457,181638,4,20
+324,compromise (feat. Soo-Yeony & bluewoods),DJ Sparrow,compromise (feat. Soo-Yeony & bluewoods),spotify:track:5Uy0nfGGfNP3NN6ElzJi5f,2023,0.409,0.833,4,0.446,0.0,0.132,-6.679,0,0.0647,114.988,0.489,160696,4,22
+325,Love Song,Kei,"Tale of the Nine Tailed 1938, Pt. 2 (Original Television Soundtrack)",spotify:track:0HsCULcKWeaF2WdKMTTx8q,2023,0.454,0.573,0,0.594,0.0186,0.182,-6.982,1,0.0258,96.044,0.295,189576,4,46
+326,Love Signal,JANG SONG HO,Love Signal,spotify:track:3rnvLgteBQWTALKwhRt0p9,2023,0.133,0.684,7,0.941,0.0,0.369,-1.709,0,0.0752,149.894,0.932,213360,4,14
+327,눈물이 아직 남아 있어서,Han Kyung Il,PETER PANDA (Original Webtoon Soundtrack) Pt.8,spotify:track:2vfdNmB6cy9S0QdIHh5cmA,2023,0.403,0.586,11,0.585,5.55e-06,0.148,-5.645,1,0.0313,132.026,0.163,247852,4,14
+328,Meno mosso,Leeyeongwon,pension rm. 02 - Meno mosso,spotify:track:1EK7pPXJvd7Cul9gALSABz,2023,0.705,0.435,0,0.338,0.0252,0.151,-8.292,1,0.0296,70.004,0.142,187800,4,15
+329,It's hard for me,Pureum,It's hard for me,spotify:track:7Gaia3VZ2WsO3FuzPtL6Si,2023,0.804,0.369,7,0.367,0.0,0.164,-6.039,1,0.0304,139.03,0.29,277380,4,14
+330,"Boom Bap Connection (feat. UnBomber, Deepflow) [B.B.C Pt.3]",Old School Teacher,E.W.O.G,spotify:track:1VTL9P1smqalkWIcwmP3Pf,2023,0.0131,0.837,1,0.857,2.81e-05,0.197,-5.349,0,0.256,93.935,0.856,209481,4,13
+331,narodo (feat. Ivwan),SoulMilK,narodo (feat. Ivwan),spotify:track:1aV4n8oijIobGLnCVM4lrI,2023,0.256,0.705,10,0.788,0.0,0.186,-5.282,1,0.164,152.908,0.569,154274,4,14
+332,The Girl and the streetlamp,HUH CHAN MI,Sound Color Voice Queen,spotify:track:00O8y3lMb50GmutLxQHgCj,2023,0.635,0.418,7,0.463,0.00011,0.175,-5.438,0,0.0264,75.935,0.203,215289,4,13
+333,Melting mellowly,Suryeon,Melting mellowly,spotify:track:2TUKYfX45ed9yXOMYL3elg,2023,0.737,0.542,9,0.461,0.0,0.354,-4.94,1,0.0356,91.652,0.212,181125,4,14
+334,The Moon Has Passed,Lucia,The Moon Has Passed (The Moon during the Day),spotify:track:5hwwtgaNRiKAgh13DDSPSd,2023,0.667,0.572,1,0.522,1.82e-06,0.104,-6.745,0,0.035,115.91,0.147,226387,4,39
+335,Is this love? (with YOUN TOVEN),JUNIEL,Is this love?,spotify:track:6AzNmQzi4gFwlbcfCUemJ2,2023,0.108,0.653,1,0.671,1.73e-06,0.144,-3.644,1,0.0303,91.041,0.711,183297,4,34
+336,A Heartbreaking Story (Feat. Joon Park),nokdu,A Heartbreaking Story,spotify:track:2HjX3g6NK0wLhELTM0mMRc,2023,0.0576,0.398,10,0.583,0.0,0.0868,-6.185,1,0.0294,143.511,0.343,261347,3,18
+337,The night,Jang Hye Jin,The night,spotify:track:67E1ivlS0HN9Wd4bBMcevD,2023,0.84,0.53,6,0.323,0.0,0.183,-7.476,1,0.0349,125.975,0.169,249373,4,34
+338,By Your Side (feat. Ashley Alisha),Dept,Me and U,spotify:track:1cBbrsza3fkHgtE6F16aQv,2023,0.2,0.631,6,0.557,0.0,0.0572,-5.164,0,0.0292,90.998,0.723,173373,4,45
+339,Billy Song,verycoybunny,Billy Song,spotify:track:1PnxDIIQKhAtiGKaJwKFTB,2023,0.802,0.675,9,0.138,1.87e-05,0.104,-11.25,1,0.0334,114.925,0.274,227267,4,21
+340,Globe,LIZRO,"Love Interference 2023 (Original Television Soundtrack), Pt. 13",spotify:track:6l7jth8VMA9Wo52NeNwwwm,2023,0.669,0.822,4,0.299,0.00181,0.11,-9.459,1,0.0314,91.978,0.354,161000,4,25
+341,For you,YEL,For you,spotify:track:23mLrZO5Ff4UJYvJoTSu58,2023,0.52,0.458,1,0.583,0.0,0.0957,-6.453,1,0.056,175.591,0.37,198610,3,19
+342,Precipice,WOO,BE:LOVED,spotify:track:4swPSxcOg1y2xEQgKxzFj9,2023,0.848,0.767,11,0.572,0.0,0.089,-7.084,1,0.0696,115.961,0.66,187173,4,11
+343,After this night,PARK MIN HYE,Doctor Cha (Original Television Soundtrack) Pt. 4,spotify:track:3MAQWeovl3g5BGUiu7YJdj,2023,0.773,0.367,7,0.502,0.0,0.179,-4.952,1,0.0315,132.409,0.235,256320,4,50
+344,love is everything (Feat. U-Rim),Jeon Gunho,love is everything,spotify:track:68twHXbWeVxgidIyw4C8hO,2023,0.458,0.563,0,0.694,0.0,0.113,-2.234,1,0.0319,143.808,0.53,215761,4,20
+345,It was problem that we were so in love,DOKO,Geek artist,spotify:track:3lNskOkpksR0eyCXRe9zBr,2023,0.219,0.547,7,0.504,0.0,0.0809,-5.292,1,0.0288,139.94,0.207,298000,4,16
+346,twit,TRI.BE,K-909 : twit,spotify:track:0FmNJEwcFE4aGZtqZhiEmD,2023,0.0393,0.767,5,0.865,0.0034,0.273,-2.415,0,0.0492,135.987,0.837,161000,4,47
+347,온세상이 너,CODA BRIDGE,요조신사 마초숙녀 (Original Webtoon Soundtrack) Pt. 28,spotify:track:6sWpb7Ked0QP1LuVCKmcJZ,2023,0.489,0.45,5,0.656,0.0,0.111,-3.526,1,0.0411,143.518,0.469,219657,4,30
+348,Alone in Love,Dohyuck Lim,Superstar K 6 - Do Hyeok Lim,spotify:track:4EUuhmRhUko9ajaXHlL3pn,2023,0.589,0.505,2,0.504,0.0,0.376,-4.813,1,0.0336,125.89,0.338,284000,4,16
+349,"Excuse me, hold on! (feat. YUNNUGU & Ara)",Kadi Korgi,"Excuse me, hold on!",spotify:track:5wLtvrlotwGoKc6LJ4V7CT,2023,0.423,0.791,5,0.536,0.0,0.104,-9.294,0,0.192,155.94,0.865,203077,4,14
+350,A day full of excitement,MELODY,A day full of excitement,spotify:track:5utA9OMSWaWB5B9rxTqPO6,2023,0.687,0.728,4,0.439,0.0,0.104,-6.154,1,0.0395,97.98,0.4,213798,4,12
+351,"아직도 너를 사랑하나 봐 (feat. 림호, 이상히)",K. Flower,I guess I still love you,spotify:track:0boZXqaS3JqgbNgsSbd6BT,2023,0.881,0.721,10,0.327,0.0,0.101,-4.225,1,0.0282,96.012,0.515,178959,4,13
+352,CONTINUE?,Huckleberry P,A Few Months Later,spotify:track:5id2O3ghRLH3XLL4kY6gcU,2023,0.0433,0.691,6,0.914,0.0,0.0778,-4.041,1,0.362,99.801,0.372,176093,4,20
+353,DEEP,Park Junha,DEEP,spotify:track:3C6jYFFafwhpzEywUFlboB,2023,0.149,0.423,9,0.604,0.000357,0.26,-6.687,1,0.0273,169.811,0.0412,148507,3,13
+354,Stain,PYMEL,Stain,spotify:track:0t6FALwsesvu3cTdiuuswU,2023,0.939,0.447,7,0.357,0.0,0.116,-9.984,1,0.0512,132.886,0.373,149538,4,13
+355,You Call me love,Park Cho Won,You Call me love,spotify:track:1SLtfY1d9ayTaCSuhpcmMF,2023,0.893,0.514,1,0.489,6.46e-05,0.108,-7.639,1,0.0343,139.227,0.233,224000,4,11
+356,Rose,imzoo,Rose,spotify:track:7l0hHj7VlbVpDIpGrLCqFU,2023,0.84,0.557,5,0.38,1.78e-06,0.44,-7.747,0,0.0513,114.966,0.437,188749,4,23
+357,Saying I love you is not enough,The Daisy,"Oh, Boy! OST Part.14 (Soundtrack)",spotify:track:72znvgKko4lB4fXqrHQe00,2023,0.793,0.479,5,0.535,0.0,0.314,-4.407,0,0.0266,135.948,0.326,203648,4,30
+358,Your Scent,DAWON,"My 20th Twenty (Original Webdrama Sountrack, Pt. 4)",spotify:track:5JkCCSFsdCBVuGeAxtHENA,2023,0.136,0.569,8,0.427,0.0,0.143,-7.105,1,0.027,125.926,0.278,224065,4,28
+359,Timing,Kim eun young,Timing,spotify:track:5hHHF4wzTc2K5PP6gpOTEr,2023,0.0874,0.656,7,0.578,3.18e-06,0.14,-7.537,0,0.0327,179.916,0.731,237372,4,15
+360,bye by you,STi,ride out,spotify:track:4Sbvw2bY1CQ2nlbUEcaXDF,2023,0.635,0.723,11,0.666,0.0,0.155,-3.948,1,0.0384,133.952,0.271,280427,4,14
+361,너를 만나 행복을 느끼고 The way you make me happy,PERC%NT,너를 만나 행복을 느끼고 The way you make me happy,spotify:track:2O3e1FXHBpSyjTswMh9Bjp,2023,0.441,0.622,4,0.419,5.06e-05,0.206,-9.512,1,0.0269,129.908,0.394,195692,4,19
+362,Night thinking 'bout you,CITI,Night thinking 'bout you,spotify:track:42m5jkIH5GzWdZM1V9JJQs,2023,0.246,0.62,3,0.456,0.0,0.224,-6.14,1,0.0345,169.923,0.575,221613,4,23
+363,Umm (feat. 권영훈),늘보(Neulbo),Umm,spotify:track:2ADDEtxrn8MFOIvwlcTFSG,2023,0.266,0.67,10,0.608,0.0,0.223,-5.458,1,0.189,84.937,0.384,188894,4,20
+364,Please say something to me,Shin Hyun Woo,Please say something to me,spotify:track:1DVSSWOrUq5QqwvtzbWsAi,2023,0.317,0.454,9,0.566,0.0,0.114,-4.731,1,0.0498,137.613,0.288,221573,4,15
+365,Say Yes,Standing Egg,Say Yes,spotify:track:50xtJiijvVTqeT4d4dnRX5,2023,0.857,0.709,6,0.37,0.0,0.108,-10.848,1,0.0421,123.959,0.712,203840,4,39
+366,Beautiful Day,DOYOUNG,Romantic Doctor 3 OST Part.3,spotify:track:10dRLjJYEScSWpxN8uxFUN,2023,0.766,0.306,9,0.389,0.0,0.233,-8.249,1,0.0317,148.918,0.17,205700,4,53
+367,RUN TO YOU,PLEA,RUN TO YOU,spotify:track:52Q3jIO1SuKpDjTk3k2iKh,2023,0.0811,0.705,2,0.53,0.0,0.131,-6.513,1,0.0486,93.118,0.243,169677,4,14
+368,Love..What is it,Zia,Love..What is it,spotify:track:1q9TLiBIGcjEchuhPSIz8c,2023,0.694,0.46,2,0.701,0.0,0.105,-4.276,1,0.0412,135.654,0.368,225827,4,41
+369,Everything I loved,SONG YUVIN,"All That We Loved (Original Television Soundtrack, Pt. 2)",spotify:track:0YElyCLraxLWTjNgexs380,2023,0.116,0.643,11,0.835,0.0,0.139,-3.494,1,0.0309,114.971,0.264,254480,4,37
+370,Blanket,hamzzi,Blanket,spotify:track:7MakZXG7eP94FERyoZ5fTB,2023,0.89,0.718,7,0.399,0.000502,0.306,-8.694,1,0.241,139.991,0.367,196387,4,14
+371,Find the love,Honey Apple,Find the love,spotify:track:7w6Gs08DOAJ53tTW8ZdmEz,2023,0.395,0.788,7,0.407,3.29e-05,0.0561,-8.249,1,0.0561,171.93,0.385,191860,3,12
+372,Bubble,AIMERS,Bubbling,spotify:track:4ejcfQtDVmKgP7Si1elfay,2023,0.0571,0.739,7,0.946,0.0,0.0754,-2.626,1,0.164,97.986,0.805,192693,4,41
+373,Workaholic (Feat. Kwon InHa),SUHO,Workaholic (Feat. Kwon InHa),spotify:track:1tPFK1TA9BiGgchPMyFUlX,2023,0.138,0.609,7,0.877,0.0,0.243,-4.018,0,0.2,98.278,0.652,229968,4,15
+374,Comfort Zone Horizon,Offing,Comfort Zone Horizon,spotify:track:5ly2cUgr7ektlXKyu6q9Pk,2023,0.0031,0.462,1,0.829,0.0528,0.143,-5.337,0,0.0284,180.014,0.801,218950,4,16
+375,너와 이별하는 1년,MOST,너와 이별하는 1년,spotify:track:2f1RnAa9AEWyppzF872qy6,2023,0.708,0.548,1,0.358,0.0,0.11,-5.72,1,0.0278,71.03,0.324,220352,4,11
+377,our gloomy,Kim Bom,our gloomy,spotify:track:3FYErI4z6JZYQnp9SKcdym,2023,0.887,0.735,1,0.433,4.87e-06,0.136,-8.342,1,0.0381,116.083,0.38,159310,4,15
+378,Hurts,Jo Hyun Ah,"Caught Between Marriage & Divorce Season 2, Pt. 1 (Original Soundtrack)",spotify:track:3x8ZUPWqFNjsVByndKAB0Y,2023,0.704,0.626,4,0.721,0.0,0.144,-4.352,0,0.0971,87.964,0.568,237185,4,17
+379,when it snows in May,Yiruma,non è la fine,spotify:track:26EiFb8JMXdwKWCkT4cc6Q,2023,0.994,0.434,1,0.116,0.939,0.133,-23.446,1,0.0753,70.063,0.119,145973,3,43
+380,SAME TROUBLE,popeye,SAME TROUBLE,spotify:track:487FAUWQ2NGbXRA0PXQ3Ak,2023,0.574,0.759,9,0.545,0.00678,0.133,-7.9,1,0.0816,167.968,0.635,149621,4,16
+381,always,Ra.D,always,spotify:track:1QX4AzgbnUZNt2l3y1cKr1,2023,0.39,0.665,5,0.653,1.13e-05,0.246,-7.125,0,0.107,89.965,0.634,206667,4,28
+382,Stars,J.UNA,Road Trip,spotify:track:5dSm3aeD8Jq0RquEbHg5q5,2023,0.662,0.345,6,0.246,1.36e-06,0.16,-10.709,1,0.0342,89.249,0.352,168467,4,18
+383,Golden Mask,Kim Dong Ryul,Golden Mask,spotify:track:4g7Up38eOByMRnGX6SiHw5,2023,0.0835,0.584,11,0.801,0.0,0.0748,-5.489,0,0.0353,145.071,0.713,241664,4,42
+384,Benefactor,Ahn Sung Hoon,Mr. Trot 2 Winner's Benefit Song,spotify:track:5HqEJNSBPXq1BEKu5q9qWo,2023,0.814,0.285,1,0.428,0.0,0.143,-5.907,1,0.0317,147.63,0.455,275880,4,18
+385,Tanaka San,DALsooobin,Tanaka San,spotify:track:0XlmOL5SdzlhWlQKhF6rrA,2023,0.0366,0.705,9,0.812,0.0,0.0467,-3.851,1,0.0414,124.029,0.742,182419,4,35
+386,Hatred,Nody Cika,Hatred,spotify:track:6wZAYtq58NtIuF2fhlsy8t,2023,0.765,0.84,9,0.54,4.69e-06,0.102,-6.668,0,0.54,78.954,0.791,184520,4,19
+387,"CITY BOYY REMIX (feat. ICE PUFF, YUNG CHENS, CHERRY BOY 17, JI HYUN MIN, Hijvc Kid, JJK)",DAM1NOISE,"CITY BOYY REMIX (feat. ICE PUFF, YUNG CHENS, CHERRY BOY 17, JI HYUN MIN, Hijvc Kid, JJK)",spotify:track:2WZ6wt4dFlqiVuIF28k1gz,2023,0.0256,0.903,1,0.508,0.0,0.279,-8.183,1,0.265,127.954,0.506,303750,4,15
+388,Make Me Love U,VIVIZ,"True to Love, Pt. 7 (Original Soundtrack)",spotify:track:3NxsNYrMHHdU93sBEFB9xo,2023,0.563,0.69,7,0.715,1.03e-06,0.0886,-4.322,1,0.0556,107.009,0.472,207119,4,40
+389,Alchemist,Doorlesshouse,Alchemist,spotify:track:20DfkWtYJaNhYMYODwxrkl,2023,0.017,0.451,7,0.638,0.000791,0.121,-4.447,1,0.0387,175.872,0.4,317216,4,16
+390,Fly away,홍미진,Fly away,spotify:track:5COR6bdnn8It1Aor9oibH0,2023,0.00156,0.748,10,0.793,0.0,0.0752,-3.617,0,0.0537,100.037,0.569,187200,4,12
+391,부르르 (feat. 이케이),Young Froze,부르르,spotify:track:2LvPis9GgBvdVcrt5LusLF,2023,0.134,0.943,1,0.812,0.0,0.212,-3.417,1,0.212,120.007,0.692,246000,4,12
+392,Take Me,MINMIN,Take Me,spotify:track:3CoJh6fDVbGhs4kPzRoNF5,2023,0.344,0.678,0,0.62,0.0,0.11,-7.258,1,0.337,88.027,0.405,200625,4,15
+393,My love confession,Joonand,My love confession,spotify:track:4EQgvxlYkrQMEoo9kvalow,2023,0.759,0.537,1,0.545,0.0,0.354,-4.752,1,0.026,93.859,0.25,235543,4,12
+394,GUN,4ll8lue,1721,spotify:track:4y8eCz8YpNuW6jEu0zVuml,2023,0.482,0.666,7,0.334,0.000356,0.362,-10.678,1,0.0374,99.844,0.188,205000,4,11
+395,Dazzling Tears,2BiC,Dazzling Tears,spotify:track:3r88Zvj0W0BiLOh3blS6g3,2023,0.683,0.425,10,0.502,0.0,0.152,-6.027,1,0.0296,135.448,0.398,232147,4,29
+396,좋아보여 2023 (feat. 검정치마),Verbal Jint,좋아보여 2023 (feat. 검정치마),spotify:track:4k4uH66Od7pOXgYnTsVw8u,2023,0.465,0.655,10,0.604,0.0,0.0831,-6.26,0,0.289,175.89,0.512,207094,4,38
+397,Summer,쿼카N수달,Summer,spotify:track:2ZYZRH7fmpRH6gYmXZdFM3,2023,0.126,0.665,9,0.949,0.0,0.221,-3.182,1,0.0613,117.909,0.629,191831,4,20
+398,Must be Famous,Lokid,Must be Famous,spotify:track:0wa3TM5uaTvKfpUXjGEWW6,2023,0.621,0.682,1,0.678,0.0,0.109,-5.721,1,0.0332,89.048,0.642,207333,4,25
+400,A friend who is like a medicine,Ahn Sung Hoon,Music Source of Tralala Brothers Best PART2,spotify:track:7rfxJmT0GB0PhyWXSp3AFU,2023,0.108,0.602,2,0.753,0.0,0.229,-4.158,1,0.0313,136.014,0.817,171160,4,12
+401,like a fallen tree on the way,Budung,like a fallen tree on the way,spotify:track:2zMlinVBZ369C1UlmAn04f,2023,0.937,0.715,10,0.171,0.0,0.123,-14.289,1,0.0371,129.63,0.499,210000,3,21
+402,living,OSUN,living,spotify:track:2Ehbvf1g7ptEpIcue3JdNB,2023,0.142,0.564,11,0.687,0.0,0.141,-4.504,1,0.0948,75.96,0.131,219998,4,23
+403,Dancing on the table,Milena,Dancing on the table,spotify:track:3HDv2kY0o5Tx1PsBHXc2UV,2023,0.866,0.702,8,0.337,6.19e-05,0.11,-8.386,1,0.038,76.445,0.336,220973,3,36
+404,"If you only love me, (feat. Younwho)",merrymerryseoul,We can cherish every moment,spotify:track:69xUXrhnYsMMF1dFRrKw7w,2023,0.287,0.65,11,0.769,0.0,0.228,-4.815,1,0.0365,93.019,0.792,189573,4,17
+405,Wendy,Andnew,Wendy,spotify:track:7wE3NwkPOuHq0jUNLpRc3a,2023,0.0468,0.7,1,0.811,0.0,0.0731,-2.43,1,0.0373,96.984,0.46,186793,4,23
+406,You And Me And Everything,E Z Hyoung,You And Me And Everything,spotify:track:446uODF3odMHMaPwoCCNqf,2023,0.0919,0.756,10,0.551,0.000491,0.0884,-4.752,1,0.0433,124.972,0.961,205907,4,13
+407,하루만,Jo Moon Geun,PETER PANDA (Original Webtoon Soundtrack) Pt.7,spotify:track:4zFeRmRMTIlTHOYkOcZbSp,2023,0.827,0.532,0,0.417,0.0,0.108,-5.942,1,0.0276,136.057,0.393,240789,4,28
+409,Go 4,we hate jh,Go 4,spotify:track:4iW8EYDTIYKSuTYlo6GVbJ,2023,0.000296,0.417,1,0.852,0.0,0.0816,-5.495,1,0.0588,87.366,0.408,257307,4,13
+410,2023 INTRO,정규민,2023 INTRO,spotify:track:0BIDjFK8hikijI74R7tgZo,2023,0.647,0.5,0,0.384,0.0,0.124,-8.539,0,0.249,200.158,0.508,116000,4,13
+411,Raindrops on the Window,The Sunlight Village,Raindrops on the Window,spotify:track:58T1iY4epgfF2gPPCWJz2k,2023,0.597,0.433,9,0.715,3.07e-05,0.213,-4.455,0,0.0495,81.958,0.359,198760,4,12
+412,I miss you even if I can't say this,Woo Yi Kyung,I miss you even if I can't say this,spotify:track:6jaVVcXXYDRh84ui3lmldp,2023,0.873,0.389,8,0.399,0.0,0.144,-5.872,1,0.0371,166.854,0.275,189482,4,11
+413,Only For You,Tobio,I'm The Man,spotify:track:3miq3CiT39is7d2pv5E3xP,2023,0.686,0.702,8,0.51,0.0,0.112,-10.109,1,0.162,94.951,0.666,184421,4,17
+414,How can you forget,The Bridge,"Oh, Boy! OST Part.13 (Soundtrack)",spotify:track:1bGEEMxKrMRbBtAekyBKRk,2023,0.506,0.465,1,0.527,0.0,0.219,-4.591,1,0.035,134.899,0.227,206459,4,11
+415,Hunger Strike,citygodok,Hunger Strike,spotify:track:25dL3t2k2VkYidC8bAwgCt,2023,0.0004,0.545,1,0.797,0.183,0.13,-5.532,1,0.0476,129.867,0.485,160250,4,10
+416,I Love You More Than Today,DOKO,I Love You More Than Today,spotify:track:5aGNRBW2dUbHFJZc0X4qbP,2023,0.557,0.331,0,0.504,0.0,0.123,-9.231,1,0.0416,140.649,0.353,220417,4,14
+417,DON'T COME BACK (feat. Choi LB),Mingginyu,DON'T COME BACK,spotify:track:1oqgLtUcyrRlRTwnX02KMz,2023,0.864,0.637,8,0.636,0.0,0.305,-5.114,1,0.361,79.906,0.685,180750,4,35
+418,The Planet,BTS,The Planet,spotify:track:4IJsVXbSeGPUrgwpVoHmlg,2023,0.000482,0.665,0,0.848,0.0,0.2,-3.619,1,0.0708,119.986,0.687,178156,4,88
+419,Kaze,Younha,YOUNHA Studio Live Album 'MINDSET',spotify:track:686EAFs0uJRvVTHaOhkP1u,2023,0.799,0.571,8,0.389,0.0,0.152,-6.318,1,0.0265,90.049,0.259,331600,4,45
+420,Love you again,MeloMance,"The Good Bad Mother (Original Television Soundtrack, Pt. 4)",spotify:track:3tt4jUdcPx7ZRNrXcP58x2,2023,0.659,0.358,1,0.549,1.34e-06,0.112,-5.455,1,0.0361,72.285,0.278,229000,4,50
+421,At the wedding,LEEWOO,Recall of memories,spotify:track:4Gqzue9KPrXbXdzKDgU2jn,2023,0.496,0.365,5,0.428,0.0,0.0898,-6.332,1,0.0331,132.452,0.318,239493,4,29
+422,Lovesick,SUNGMIN,Lovesick,spotify:track:0BoYGfzrC5qok8tHU3Zbzx,2023,0.288,0.581,5,0.873,0.0,0.331,-1.053,0,0.085,126.313,0.735,191987,4,38
+423,Love bear,KCM,Restart : 20th,spotify:track:5XPNBHaPbI5NT1352yYXTd,2023,0.705,0.378,8,0.52,0.0,0.12,-5.149,1,0.0305,135.068,0.235,279027,4,25
+424,FEELING!,Otis Lim,FEELING!,spotify:track:5bZTJrKo5s3Ph5vY4kf2fg,2023,0.128,0.909,9,0.461,0.0041,0.526,-6.452,1,0.176,115.077,0.37,168672,4,19
+425,Ordinary Confession,Lee Mujin,Ordinary Confession,spotify:track:6JIm38KbaDGfi65VGETDi9,2023,0.603,0.635,0,0.773,0.0,0.364,-3.995,1,0.0468,106.066,0.831,228173,4,62
+426,BAD BOY (feat. BIG Naughty),MIRANI,The Drift,spotify:track:5DvSOtsX1zRg1M2TjkK9BF,2023,0.0908,0.956,8,0.448,6.06e-05,0.0955,-8.006,1,0.24,120.006,0.467,164267,4,54
+427,ALWAYS,XODIAC,ALWAYS,spotify:track:7rRHAYULh9dwFDgHifMhqn,2023,0.239,0.671,7,0.731,0.0,0.335,-4.312,1,0.0586,87.008,0.559,191227,4,43
+428,Spicy,aespa,MY WORLD - The 3rd Mini Album,spotify:track:1ULdASrNy5rurl1TZfFaMP,2023,0.0138,0.757,11,0.898,0.0,0.0703,-1.247,0,0.0667,114.949,0.842,197040,4,84
+429,Per,ADYA,ADYA,spotify:track:1Kp9qkgGOB0nXrXdsW6w8o,2023,0.0314,0.863,9,0.781,9.3e-06,0.0404,-3.398,1,0.138,100.039,0.765,200400,4,48
+430,NO LIMIT,CRAXY,NO LIMIT,spotify:track:1iSR6hjsqaIQItSovROxCO,2023,0.0986,0.7,1,0.876,0.0,0.109,-2.845,1,0.261,150.063,0.565,155964,4,38
+431,DIOR,JUPITER,UNDER SEONGSU BRIDGE II,spotify:track:5Obmhd6dtFDvByXr9hblHe,2023,0.227,0.785,3,0.598,0.0,0.0886,-8.234,1,0.124,134.923,0.375,245824,4,20
+432,ERASE ME,ONEUS,PYGMALION,spotify:track:1K2cYJekjVTqjSPJdLhGQB,2023,0.0135,0.653,11,0.732,0.0,0.0636,-3.919,0,0.194,126.956,0.768,189840,4,61
+433,U,iKON,TAKE OFF,spotify:track:4LKcNaDtBhpTN4rUVuRj0B,2023,0.108,0.783,9,0.849,0.0,0.101,-2.066,1,0.176,122.99,0.799,199853,4,61
+434,Don't ever say love me (feat. RM of BTS),Colde,Love Part 2,spotify:track:34o6gteNy2T5rieA0xYAgo,2023,0.355,0.543,11,0.475,0.0,0.366,-6.502,0,0.0541,145.115,0.187,214920,4,83
+435,WONDER,ASH ISLAND,ROSE,spotify:track:3nW7zEVZamOeAYnWp5LqVh,2023,0.0395,0.607,1,0.731,0.0,0.166,-5.898,0,0.0383,141.999,0.759,173187,4,56
+436,I Will Stay With You,Gummy,Romantic Doctor 3 OST Part.2,spotify:track:4QOv0bYWBRr6Fp3paq3tZw,2023,0.739,0.544,11,0.46,3.17e-06,0.109,-5.816,1,0.0425,80.027,0.209,207375,4,49
+437,Star,Onestar,"All That We Loved (Original Television Soundtrack, Pt. 1)",spotify:track:29oaHltRFeem2eMPDTo8sz,2023,0.511,0.4,8,0.389,0.0,0.115,-7.688,1,0.029,83.798,0.0759,287467,4,33
+438,My Love,CLASS:y,My Love,spotify:track:41UKTWmpieX6d0AOpqAxFw,2023,0.146,0.632,5,0.788,0.0,0.166,-5.198,1,0.0352,92.012,0.534,209787,4,42
+439,Push Up (feat. Swings),Dbo,5,spotify:track:3qwcpsYXE3rAzfnLlLgOhJ,2023,0.0504,0.787,2,0.789,0.0,0.144,-4.464,1,0.0515,147.0,0.606,172336,4,23
+440,당신에게,soon,당신에게,spotify:track:2PKVbyx39sHVy8cuEtRpyX,2023,0.985,0.609,11,0.128,0.000145,0.205,-12.908,1,0.0304,97.939,0.167,236001,3,22
+441,이 세상에서 (Original Webtoon Soundtrack) - Japan Version,J-JUN,플레인워커 X 김재중 (Original Webtoon Soundtrack),spotify:track:03ZOAg3nzly7ZhoP7VRcWV,2023,0.435,0.47,8,0.643,0.0,0.21,-4.112,1,0.0343,132.214,0.328,237173,4,32
+442,Twinkle!,YEYEBEEN,HAPPY PICNIC together,spotify:track:4O163SedwpB0Y7n0Uvdp8r,2023,0.204,0.872,10,0.544,0.0,0.1,-5.472,1,0.0449,126.906,0.726,151181,4,18
+443,"Swirl (feat. Bona Zoe, JAEHA)",Alive Funk,"Swirl (feat. Bona Zoe, JAEHA)",spotify:track:4g41JYHfnqji25WwH4FwPD,2023,0.571,0.412,0,0.749,0.0,0.202,-5.563,1,0.334,128.94,0.432,163299,5,20
+444,Dopeboy (feat. Khundi Panda),PENTO,Delorean,spotify:track:6bYWNciG508wDgGh8RtzTJ,2023,0.0916,0.503,2,0.936,0.0,0.316,-2.414,1,0.258,87.066,0.556,193103,4,17
+445,OTW,CHURUM,OTW,spotify:track:71cPvtOcK6fCWxUhV0TgKa,2023,0.674,0.723,0,0.537,0.0,0.339,-4.187,1,0.0974,154.779,0.814,144000,4,21
+446,Cherry Talk,tripleS,+(KR)ystal Eyes <AESTHETIC>,spotify:track:7CmjviM3EY4Xi7w8VzeULP,2023,0.184,0.691,5,0.952,0.0,0.106,-1.756,1,0.0837,99.995,0.823,171840,4,59
+447,HYBRID,MAX CHANGMIN,HYBRID - SM STATION,spotify:track:2DcoPHnwznHQimpVfMXL8Y,2023,0.021,0.509,9,0.829,0.0,0.203,-3.629,1,0.0642,113.942,0.37,296427,4,40
+448,Wind And Wish,BTOB,WIND AND WISH,spotify:track:0feBL3YZOwuLcVjTZhMjRZ,2023,0.0923,0.613,11,0.906,0.0,0.0715,-2.803,1,0.188,179.952,0.638,221467,4,60
+449,UNFORGIVEN (feat. Nile Rodgers),LE SSERAFIM,UNFORGIVEN,spotify:track:51vRumtqbkNW9wrKfESwfu,2023,0.111,0.795,4,0.875,8.94e-05,0.107,-4.079,0,0.0525,104.008,0.375,182149,4,89
+450,Touch,touch,Touch,spotify:track:1qUvo1paNJ3XB3P8XBRx8D,2023,0.134,0.535,11,0.822,0.00192,0.116,-5.276,1,0.182,139.838,0.503,208579,4,21
+451,my bias,siso,my bias,spotify:track:40tzb3jraaxvN8VtITYwFV,2023,0.614,0.676,5,0.655,0.0,0.171,-5.558,0,0.0473,90.967,0.739,172227,4,39
+452,Moonflower,TAEWOO,Moonflower,spotify:track:0WJr05g413kRbR3K41llrl,2023,0.584,0.36,11,0.552,0.0,0.174,-4.918,0,0.0388,82.324,0.166,175827,4,34
+453,GOLD,KOONTA,GOLD,spotify:track:6B8X0OE09SNphHrI8h58zT,2023,0.164,0.47,9,0.967,0.0,0.0613,-0.76,0,0.408,186.304,0.617,205547,4,28
+454,What If,Kim Na Young,What If,spotify:track:6K39bcks5wn5oCtTGl6UCf,2023,0.62,0.412,10,0.52,0.0,0.106,-5.386,1,0.0344,150.004,0.203,272027,3,43
+455,Don’t be afraid (feat. SEOGI),YOON GUN,Don’t be afraid,spotify:track:207cIkf2j8VkBFK362MrIw,2023,0.762,0.662,5,0.466,0.0,0.171,-5.741,1,0.0469,173.944,0.576,188013,4,31
+456,Time+LOVE+Dream,Byeol Eun,Time+LOVE+Dream,spotify:track:7oLYJ0A0BKMBUQRP92AGBm,2023,0.711,0.408,8,0.505,0.0,0.106,-4.432,1,0.0586,164.995,0.595,216867,3,20
+457,Merry Go Round,Risso,Seoul Drive,spotify:track:72K81ttBz65KEX2NFtJ7L1,2023,0.478,0.738,5,0.656,0.00011,0.359,-5.794,1,0.03,99.995,0.864,218613,4,24
+458,Stay with me (feat. meenoi),dana kim,Situationship,spotify:track:1CPj6QkxoCau1C1b2Y23SQ,2023,0.454,0.721,8,0.439,1.36e-06,0.181,-5.709,1,0.0303,88.049,0.31,185677,4,24
+459,Before I Knew It,Moonbit,Before I Knew It,spotify:track:2vhWBIK3IlDVOpNvHrYmgm,2023,0.803,0.669,9,0.341,0.0,0.135,-6.136,1,0.0286,91.955,0.41,247560,4,19
+460,Be there,Jeon Sang Keun,The Secret Romantic Guesthouse Part.7,spotify:track:0uSO0DaUix5IbVAYKG31Bz,2023,0.626,0.567,5,0.593,0.0,0.0824,-3.597,1,0.0374,127.819,0.36,226080,4,36
+461,Ride or Die,BANG YONGGUK,THE COLORS OF LOVE,spotify:track:27teIfUeZ1SMXd49ovFvk0,2023,0.15,0.691,10,0.784,0.0,0.133,-4.752,0,0.0663,102.011,0.25,200920,4,46
+462,You Got A Minute?,Ha Hyun Woo,My Perfect Stranger OST Part.1,spotify:track:6fIJbvx9e9IjaKo6jml6Wa,2023,0.0239,0.517,2,0.803,0.0,0.0457,-3.071,1,0.0512,171.85,0.583,198960,4,32
+463,Loungin,Chillin Homie,Loungin,spotify:track:0JnvHhphqeXozyBhaOPQFI,2023,0.028,0.904,10,0.569,8.41e-05,0.0697,-4.06,0,0.056,109.981,0.8,195053,4,34
+464,Nobody Knows,KimYeji,"Family, Pt. 3 (Original Television Soundtrack)",spotify:track:3hIbPVFVYQHCZ5wpDSOnqN,2023,0.014,0.279,8,0.678,0.000103,0.12,-5.038,0,0.0381,177.405,0.26,207941,3,34
+465,Airplane Mode,KLANG,Track 03,spotify:track:4gKR1sPHFoHfHMescK6axE,2023,0.279,0.732,7,0.556,0.0,0.0662,-5.062,0,0.0696,147.922,0.687,171867,4,46
+466,25,EPTEND,25,spotify:track:0gtgDeAIQZinZIcWkaukqN,2023,0.0867,0.657,1,0.611,0.0,0.0948,-6.372,1,0.0422,90.0,0.44,173333,4,45
+467,Birthday,Puer Kim,I'm Sorry and Congratulations,spotify:track:6MEUjaZJqKQpjTnmMi2wh1,2023,0.838,0.708,9,0.368,0.0199,0.113,-9.794,0,0.0308,105.0,0.373,151009,4,21
+468,It's U!,Nyork,It's U!,spotify:track:0qHYMtEgFDmJUj4JGOpUbZ,2023,0.558,0.724,0,0.539,3.1e-05,0.0845,-5.495,1,0.0293,101.978,0.837,196016,4,18
+469,L,OHSHYTTTT,Night Night,spotify:track:5ghixPN8iRfCpbjBferGBz,2023,0.0534,0.795,8,0.52,2.53e-05,0.0709,-9.965,1,0.0705,139.006,0.884,195068,4,16
+470,You Are The Sea,Lena Park,The Bridge,spotify:track:6lTD3lLyCXNojKvse242Fb,2023,0.875,0.313,7,0.224,1.33e-06,0.11,-7.239,1,0.0306,137.921,0.275,215653,4,36
+471,Love(2023),JEON WOO SUNG,"Beginning is the First Kiss (Original Television Soundtrack), Pt.2",spotify:track:0lIJtNAYZctC1ikLeKRf4M,2023,0.809,0.453,3,0.462,0.0,0.108,-5.026,1,0.0295,131.294,0.331,258880,4,31
+472,Andrea′s Song (Feat. Lil Cherry),THAMA,Andrea′s Song,spotify:track:0fzKwOsRpmUQFkBPBxjAEU,2023,0.0969,0.697,2,0.803,0.0,0.101,-5.06,1,0.0419,154.017,0.7,175818,4,37
+473,Fix make-up,Cha ga eul,Fix make-up,spotify:track:6QjOs1V84HqJmJGCQBnG8g,2023,0.653,0.402,8,0.493,0.0,0.114,-4.563,1,0.0364,134.444,0.36,220987,4,32
+474,a niche flower,DORI,Queen of masks (Original Television Soundtrack) Pt.2,spotify:track:5A3mySGKYzKtrFTWkRKp3y,2023,0.842,0.486,4,0.259,0.0,0.0921,-6.719,1,0.0441,145.04,0.135,264826,3,18
+475,flutter,KyoungSeo,flutter,spotify:track:3kVJpd0l97dvphaiML7p61,2023,0.747,0.619,11,0.52,0.0,0.092,-3.195,1,0.0541,169.874,0.885,196920,4,42
+476,이런 내 맘,HAAN,이런 내 맘 (대충 캠퍼스로맨스임 X HAAN & Chan),spotify:track:7x8WaMdxlDA4tcUbVhca1d,2023,0.207,0.398,7,0.725,0.0,0.115,-5.673,1,0.0658,84.501,0.572,205050,4,34
+477,Oasis Main theme (Prod. yoonsang),Yoon Sang,OASIS (Original Television Soundtrack),spotify:track:33vvk8ZVMnZ7vFiXYY5kNU,2023,0.0314,0.305,11,0.532,0.932,0.163,-10.748,0,0.0356,174.046,0.102,162069,4,17
+478,Warm Weather (Duet NUITNUIT),Norwegian Wood,Our Sea,spotify:track:0BClZqMljlsA6eOTx9NdEB,2023,0.905,0.791,6,0.233,2.03e-05,0.109,-10.347,1,0.0756,80.022,0.782,228562,4,18
+479,사랑 그게 뭔데,Hye Ri Jang,Love & Sorrow,spotify:track:68J4lQX1gDzuNvYwlckkme,2023,0.00344,0.575,4,0.982,0.000874,0.327,-4.725,0,0.0487,139.957,0.837,192000,4,18
+480,Closer,nochexintoma,Closer,spotify:track:6SSPWBUNqkRVtBuZzYd9K7,2023,0.469,0.773,6,0.504,0.0,0.213,-8.326,0,0.0335,120.007,0.594,178000,4,19
+481,가지마오,강혜연,혜성 : 빗자루별,spotify:track:4q1UvnvjSO9jt74QCAxWRt,2023,0.364,0.73,3,0.68,0.0,0.075,-3.46,0,0.0402,105.165,0.863,174743,5,16
+482,why do you (feat. GARDEN),if.iwere,why do you,spotify:track:5MrHtk0teelb4sXlNBBXZe,2023,0.523,0.619,7,0.55,0.0,0.294,-6.153,1,0.197,157.913,0.448,153617,4,24
+483,Funky Chunky (Feat. Paloalto),YOUNG SKI,I LOVE MY STREET,spotify:track:6MSZZPsl0E8iQ0saeurlop,2023,0.171,0.742,9,0.655,1.31e-06,0.0959,-6.936,0,0.406,83.244,0.705,165679,4,21
+484,내 안의 폭주족 Biker in my mind,Shin Seung Eun,내 안의 폭주족 Biker in my mind,spotify:track:6cbTMVLswdUdif0R3sweMb,2023,0.789,0.792,3,0.336,0.0033,0.122,-12.582,1,0.0425,126.071,0.325,265493,4,20
+485,What i can't forget is,PEKKI,What i can't forget is,spotify:track:1LRGV6MpzodcHHw6CTIcLR,2023,0.534,0.69,5,0.438,0.0,0.332,-8.307,0,0.0396,103.122,0.559,170680,4,32
+486,The Lake,Jeon Yoodong,The Lake,spotify:track:0JaO3tiy6YXdPlUiwuBstt,2023,0.473,0.509,9,0.524,0.00192,0.115,-5.941,1,0.0307,113.956,0.113,335400,4,15
+487,April Sadness (feat. JUNE),homezone,April Sadness,spotify:track:4axFfUXAF9rJvDeaYrmD4m,2023,0.402,0.547,2,0.497,0.0,0.107,-6.414,1,0.0758,78.262,0.423,178000,4,36
+488,Call It Love,20 Years of Age,Call It Love,spotify:track:7uXWMA1R3TW7PVnGoHfJdr,2023,0.341,0.856,5,0.511,0.0,0.0747,-5.596,1,0.0457,118.097,0.646,178213,4,33
+489,"It was love, but not you",Kim Yi Wol,Quetzalcoatl,spotify:track:5lAwiCWQTst1LsorYKovHY,2023,0.357,0.573,5,0.615,2.16e-06,0.243,-8.178,0,0.0455,86.015,0.514,191333,4,20
+490,You Have Your Own Scent,김범룡,You Have Your Own Scent,spotify:track:3cWedKElHdS1FRqRxotCXG,2023,0.528,0.693,0,0.704,0.0,0.13,-3.157,1,0.0419,94.01,0.396,215386,4,16
+491,how do I fill this empty space?,Griffy,how do I fill this empty space?,spotify:track:5TVMCEU01JiVhltjvLo0xy,2023,0.557,0.659,7,0.409,1.94e-05,0.123,-6.188,1,0.0347,72.001,0.705,148520,4,24
+492,We can't break up like this,HAEBIN,We can't break up like this,spotify:track:1Ubqu7uegpwyeiPFL76Xqm,2023,0.54,0.558,6,0.475,0.0,0.146,-3.523,1,0.0318,133.483,0.184,229160,4,19
+493,If You See Me,LEEWOO,BY CHANCE PROJECT,spotify:track:6klI77nVgqRzC70S3xQy1i,2023,0.734,0.446,3,0.456,0.0,0.111,-7.173,1,0.0399,135.844,0.382,205880,4,34
+494,Long Live,trevo,Long Live,spotify:track:6xdrfqh3ezJOu97pKfRqPE,2023,0.503,0.71,4,0.701,0.0,0.458,-4.701,0,0.0348,107.96,0.296,199307,4,18
+495,Something,Kim Areum,Something,spotify:track:6hsefiVeZtpyExvPcI1Rt3,2023,0.58,0.607,10,0.636,0.000504,0.279,-6.541,1,0.0519,169.976,0.365,280778,4,29
+496,Peanut butter Sandwich,jisokuryClub,pool vol. 2 - Peanut Butter Sandwich,spotify:track:3A76bRRuVaIJrV8mrVeb21,2023,0.132,0.597,2,0.552,0.153,0.139,-8.508,1,0.0288,114.102,0.292,231387,4,26
+497,Breath,Jung Seung Hwan,Doctor Cha (Original Television Soundtrack) Pt. 3,spotify:track:6XHM5qjDlcJVT1afJZXUId,2023,0.6,0.476,8,0.542,0.0,0.106,-8.054,1,0.0347,109.878,0.156,221733,4,56
+498,STUPID (feat. 2SO),kenessi,future island,spotify:track:2JTOCHcDI9uDS08dIpN1SY,2023,0.563,0.566,5,0.777,0.0,0.117,-3.536,0,0.099,149.981,0.77,180987,4,42
+499,Gone,AILEE,"Pandora : Beneath the Paradise, Pt. 3 (Original Television Soundtrack)",spotify:track:4Xfix99TcepR0aGFVW8kYN,2023,0.113,0.523,7,0.726,0.0,0.148,-4.615,0,0.0556,135.982,0.3,211762,4,41
+500,3lue,Son Chamchi,[Tuna Factory] Product 7 - 3lue,spotify:track:06KM74ujJDSNLRQJggWkGK,2023,0.0166,0.491,4,0.802,5.62e-06,0.216,-3.539,0,0.0517,196.039,0.365,183000,4,21
+501,Lately,YUN HU,Lately,spotify:track:5WKvqYRORBqTDx8zAudmbq,2023,0.736,0.486,0,0.311,0.0,0.324,-10.513,1,0.0865,114.948,0.322,191667,3,20
+502,LOVE IS LIKE RAIN OUTSIDE THE WINDOW,Hong Dae Kwang,MONTHLY THE STAGE,spotify:track:01rtSKreXyU0TPmO0xL2uY,2023,0.449,0.744,4,0.412,0.0,0.258,-5.784,1,0.031,128.001,0.393,228040,4,20
+503,April 1ast,Joonseo Kim,April 1ast,spotify:track:4g3ur93cn7TEha1yTOOLpB,2023,0.956,0.714,6,0.14,0.124,0.105,-16.621,1,0.0446,113.323,0.363,154588,4,20
+504,She,KIM HANKYUL,She,spotify:track:3YRItJsXrX7kbn9ImT2P8t,2023,0.495,0.411,9,0.451,0.0,0.143,-5.92,1,0.0385,67.746,0.235,289160,4,17
+505,"in my room (feat. pH-1, Marv) (prod. moocean)",Owen,love is,spotify:track:3x3STzbhNeCivtioNh2k2I,2023,0.564,0.776,11,0.547,0.0,0.103,-7.722,1,0.247,90.046,0.594,237995,4,43
+506,clean and bright,Choi Seong,psicosismu,spotify:track:1tHvzNw9BUWlhDChWVm9jW,2023,0.0687,0.553,5,0.802,0.89,0.111,-8.574,1,0.027,109.99,0.474,278182,4,20
+507,비슷한 노래 Similar Song,irda,비슷한 노래 Similar Song,spotify:track:4EZQfMYjOwssV7d4VLTxDc,2023,0.855,0.72,6,0.246,0.0,0.143,-10.455,1,0.0532,99.902,0.327,204750,4,15
+508,Spring Song,bbangsong,Spring Song,spotify:track:45Tp3xQ4GUNUBc6riwIIwo,2023,0.863,0.737,10,0.682,0.483,0.226,-7.36,1,0.0318,129.956,0.454,156151,4,13
+509,Grey Hood,DIVE,Grey Hood,spotify:track:1ogH837TH1EkUCOmEMg7gH,2023,0.135,0.731,8,0.816,0.0,0.149,-2.73,1,0.0653,179.897,0.704,200754,4,20
+510,Nemesis,Mozzy,Nemesis,spotify:track:7KeLAE9mYMxgChZyQZwdk1,2023,0.596,0.648,8,0.388,3.91e-05,0.178,-7.781,0,0.0314,142.002,0.2,178000,4,19
+511,Astronaut,RYU SEOKWON,Astronaut,spotify:track:6P6VlyrUI9VY7tPkqsHAYt,2023,0.523,0.609,10,0.536,7.75e-05,0.0973,-7.309,1,0.03,155.919,0.433,340769,4,17
+512,The Letter: You,Legend Choi,The Letter: You,spotify:track:6PDNdqNdDIq8zr9BDifsWW,2023,0.917,0.518,3,0.238,4.73e-06,0.125,-8.228,0,0.0351,132.508,0.211,230840,4,13
+513,Only One,Kiik,Only One,spotify:track:0Un3kqZvQ77N6YzGc5TzkG,2023,0.79,0.688,6,0.515,0.171,0.389,-11.112,1,0.0506,84.027,0.339,103571,4,24
+514,돌아올지도 모르니,Gureum,요조신사 마초숙녀 (Original Webtoon Soundtrack) Pt. 26,spotify:track:09rB3mnutNJbSxvEYfAS5o,2023,0.74,0.497,8,0.456,0.0,0.106,-3.702,1,0.0302,135.302,0.29,208224,4,28
+515,FIRST LOVE,HANEUM,FIRST LOVE,spotify:track:3kXjd03dmE6r2s5MCmtTFx,2023,0.849,0.435,1,0.361,0.0,0.151,-7.599,1,0.0375,106.389,0.584,205893,3,33
+516,Maybe love,Yeon Kyoo Seong,Maybe love,spotify:track:1ow6qHeSg7382hX3n8OXdE,2023,0.706,0.384,10,0.592,0.0,0.342,-3.575,1,0.0292,134.837,0.388,208593,4,32
+517,Square Eyes,RalRal,Square Eyes,spotify:track:3XEvPo3jlEuWLrL7XEqxNc,2023,0.0333,0.816,4,0.736,0.805,0.101,-5.487,0,0.0503,128.006,0.48,127500,3,39
+518,"Boyhood (Feat. VVON, DANA)",JOPH,Ones left behind,spotify:track:4mjHZGcLuttpM6upxu35mP,2023,0.148,0.646,7,0.521,0.0,0.128,-6.375,1,0.046,77.05,0.24,178283,4,40
+519,Chang-Dong Waltzes (Feat. 가윤),Colors of Summer,Finland Papa OST,spotify:track:1CYlGKtpwfD3OZWHiWl3hs,2023,0.904,0.761,0,0.11,0.0,0.0869,-12.543,1,0.0463,129.998,0.429,175318,3,14
+520,I’m Down (Feat. bren),Posadic,I’m Down (Feat. bren),spotify:track:7imtBc6UIshHaHlqgNjaA4,2023,0.111,0.754,5,0.688,0.000931,0.172,-5.691,0,0.0697,100.017,0.881,185400,4,20
+521,Hello,BAEKHYUN,Romantic Doctor 3 OST Part.1,spotify:track:6Me6uD7KrQ2fS8U8wCiMDY,2023,0.86,0.347,6,0.381,0.0,0.104,-6.269,1,0.0276,133.896,0.199,230106,4,58
+522,Take me back in time,SOYOU,"Joseon Attorney (Original Television Soundtrack, Pt. 4)",spotify:track:14uFap7YGvJau9WdPnNbs3,2023,0.326,0.499,0,0.582,0.0,0.197,-6.828,1,0.0456,136.144,0.281,275250,3,35
+523,Bad Girls,Jimmy Brown,Bad Girls,spotify:track:0adySBJEfMd5xAWkzEOVTb,2023,0.629,0.644,10,0.426,1.01e-06,0.12,-11.691,1,0.0633,141.883,0.477,198169,4,38
+524,Stigma Effect (Original Webtoon Soundtrack)Pt.1 - Do You Love Me Just Like Me?,Choco And Vanilla,Stigma Effect (Original Webtoon Soundtrack)Pt.1 - Do You Love Me Just Like Me?,spotify:track:2GVt6mnbR93GbBNnUYuM7Z,2023,0.925,0.42,3,0.432,0.000542,0.276,-7.329,0,0.07,207.03,0.319,176997,3,29
+525,Wave,OWLER,Frequency,spotify:track:6wtAobW6UNEQP1THN6lU0w,2023,0.238,0.637,10,0.697,0.0,0.119,-4.763,1,0.0544,89.929,0.642,120000,4,16
+526,Love at first sight,1%,Love at first sight,spotify:track:3HUP7hO2cvR63wPiQAYh4b,2023,0.566,0.688,5,0.47,0.0,0.0559,-5.209,1,0.0316,134.777,0.388,183738,3,14
+527,Free Talk (feat. Nucksal),onieun,Free Talk (feat. Nucksal),spotify:track:3HtcGexaJfpk1iHGtNsV8N,2023,0.52,0.619,5,0.789,0.0,0.0976,-5.494,0,0.181,87.983,0.673,186340,4,13
+528,grandma,nijuu,mother tongue,spotify:track:5zNOL2fSejhFBu0x5eADY2,2023,0.656,0.672,6,0.538,0.0,0.0852,-6.052,1,0.031,109.98,0.363,176750,4,17
+529,Love And Equability,찰리빈웍스,Love And Equability,spotify:track:5SY8jqrYlXPEHzjByJVAcL,2023,0.657,0.571,10,0.604,4.13e-06,0.108,-3.751,1,0.0259,74.995,0.276,248200,4,16
+530,We All In This Together,eAeon,We are that somebody,spotify:track:1lwCnxrgwEN66YHjVeyPn7,2023,0.137,0.606,5,0.553,1.4e-06,0.0665,-6.193,0,0.0276,97.482,0.242,225787,3,14
+531,DIRTY ROOM,Snake Chicken Soup,補陽,spotify:track:7n6HfJNvGl7q4Zgn0JMk9C,2023,0.00347,0.368,9,0.966,0.618,0.0897,-4.073,1,0.165,75.976,0.282,193422,4,19
+532,Say you Love me,Moon Heewon,Say you Love me,spotify:track:5oUI5gjBkuHcIn7X1E6yHz,2023,0.506,0.752,3,0.692,0.0,0.19,-2.687,1,0.0513,105.063,0.515,207747,4,17
+533,THE BLUE,Soopia,THE BLUE,spotify:track:3MTvntVAyy2JmRFilA5eWv,2023,0.0888,0.596,1,0.721,0.0,0.114,-5.089,1,0.0506,133.892,0.446,200333,4,22
+534,Yooou (Feat. BIG Naughty),PARK HYEON JIN,Yooou (Feat. BIG Naughty),spotify:track:2iQ77ftQFhdxyBt1DET8Xf,2023,0.176,0.694,0,0.491,0.0,0.114,-7.671,1,0.0409,119.94,0.361,244120,3,43
+535,Tantara,iKON,TAKE OFF,spotify:track:07yTrKM5LJmKFfLyASA7O8,2023,0.0109,0.717,6,0.775,0.0,0.0561,-3.753,1,0.154,99.97,0.619,167533,4,60
+536,TTM,B.I,TTM,spotify:track:0lLvhNSlV5homLbgJ5SBvM,2023,0.0332,0.769,1,0.772,0.0,0.224,-5.04,0,0.253,145.086,0.677,197179,4,54
+537,Time and Trace,Ha Hyun Sang,Time and Trace,spotify:track:2GFIJKjMe0jqFwFsqZmiHD,2023,0.138,0.323,6,0.561,4.42e-05,0.337,-5.088,1,0.031,159.835,0.491,234133,4,43
+538,With you,Huh Gak,With you,spotify:track:7FrabSVdfcPggA25gq3LJU,2023,0.824,0.478,3,0.352,0.0,0.111,-7.559,0,0.031,78.628,0.312,223493,4,47
+539,constant string of,Moon Kyoo,constant string of,spotify:track:54N6m7RMmYCP2iiEbB0vOz,2023,0.00518,0.376,2,0.699,0.85,0.202,-8.129,1,0.0423,119.008,0.0815,277416,4,18
+540,17,CRYBABY,17,spotify:track:14MlkpwxVaIgzezt6Yi7Q3,2023,0.598,0.696,0,0.525,0.0,0.0968,-6.934,1,0.0396,139.933,0.36,179454,4,17
+541,순애보 (Art. daki),Anonymous Artists (어나니머스 아티스트),ARTIST. daki,spotify:track:3wEfsnxigqgNfS4jKp4q55,2023,0.504,0.515,0,0.559,0.000909,0.216,-8.511,1,0.119,159.986,0.391,261750,3,22
+542,Sleep Mode,hyungtae,Sleep Mode,spotify:track:5Nylsfrhgwrsl06hFk3Zi1,2023,0.622,0.655,6,0.373,0.0,0.0665,-9.108,0,0.0292,133.868,0.299,235522,4,14
+543,변화 Change,cacophony,변화 Change,spotify:track:6yn4vXkmL9qXnqpng2a2XP,2023,0.908,0.376,5,0.304,0.875,0.121,-14.905,1,0.0416,93.132,0.0392,257000,3,22
+544,I’ve Got A Thing For You,YEN,I’ve Got A Thing For You,spotify:track:4B2xBFnyZsYwMYdpZqiwLL,2023,0.66,0.755,5,0.639,0.0,0.159,-4.04,1,0.0372,92.008,0.557,188208,4,16
+545,Calambre,Koh Sangji,Calambre,spotify:track:6GFnHlRi2PfRyrMrdayBTu,2023,0.803,0.674,0,0.549,0.205,0.0927,-5.951,1,0.0417,127.578,0.737,163227,4,16
+546,우린 서로가 첫사랑 (our first love) (inst),권지은 (Kwon Jieun),우린 서로가 첫사랑,spotify:track:60AqGhTVQY3LkHvoOBdEY5,2023,0.0229,0.485,1,0.447,0.672,0.12,-8.277,1,0.0279,135.901,0.148,208413,4,14
+547,Cleaning (My love X Standing Egg),Standing Egg,Cleaning (My love X Standing Egg),spotify:track:0iBOrzJwA8NMbJQ4FdsjT6,2023,0.366,0.501,10,0.421,0.0,0.0961,-6.514,1,0.0316,129.599,0.356,237320,4,41
+548,"Oh, Love",Jukjae,"Oh, Love",spotify:track:1G0TFPZipyn1bLyQvKtPnx,2023,0.733,0.575,2,0.392,0.0258,0.139,-11.05,1,0.0266,109.295,0.4,224551,3,40
+549,Freakin' Bad,Xdinary Heroes,Deadlock,spotify:track:3wntBaOJD8AZrJ8ix97Lwg,2023,0.0119,0.645,9,0.91,0.0,0.0589,-2.298,1,0.176,101.788,0.637,183670,4,66
+550,Half & Half,Kang Seung Yoon,"True to Love, Pt. 5 (Original Soundtrack)",spotify:track:4otGEUElGYku6NLagNHDas,2023,0.335,0.635,0,0.76,0.0,0.193,-4.665,1,0.0924,101.81,0.564,170648,4,47
+551,Smoke (feat. Polodared),YLN Foreign,Born Broke Die Rich,spotify:track:058ZQqNEtrQ4Wp9IbgcFWh,2023,0.0449,0.799,1,0.939,0.0,0.135,-3.408,0,0.299,152.008,0.361,214000,4,32
+552,Baby Be Mine,SRG,Baby Be Mine,spotify:track:56WlCzZTmokNsjYpCzQIqS,2023,0.0819,0.878,1,0.522,1.09e-06,0.0784,-3.27,1,0.219,86.018,0.833,174412,4,17
+553,Monthly Project 2023 April Yoon Jong Shin - Unpredictable,Yoon Jong Shin,Monthly Project 2023 April Yoon Jong Shin - Unpredictable,spotify:track:3XA9CQ4ZMqHlQgC76CFQOv,2023,0.291,0.725,6,0.61,0.0,0.101,-4.224,0,0.0239,104.994,0.631,221960,4,21
+554,Misfortune,CIKI,Misfortune,spotify:track:5vUyGrX1m1pNlY6sigPcGE,2023,0.0406,0.62,5,0.711,3e-05,0.321,-5.189,0,0.0849,180.078,0.655,205549,4,39
+555,maze,Kim Mi Jeong,choose you,spotify:track:0PQpXX704xhMCk4idike5t,2023,0.244,0.801,11,0.863,0.0,0.298,-3.357,0,0.114,104.036,0.94,152308,4,24
+556,APRIL FOOL,NARIN,APRIL FOOL,spotify:track:2Yxn7K0mqugHlieNXAA2wK,2023,0.0687,0.67,9,0.591,0.0,0.103,-5.234,1,0.338,179.857,0.438,176819,4,14
+557,Good Match,Carina Nebula,Good Match,spotify:track:7AxhSKuS6SiEUmLTmzPGhM,2023,0.456,0.632,7,0.419,0.0383,0.142,-10.029,1,0.0382,123.228,0.598,220493,4,15
+558,Cheetos (feat. ZENE THE ZILLA),YongYong,Black Diaryy,spotify:track:6BpF2RyDiwbyulYdEGEMV8,2023,0.00556,0.692,1,0.805,0.0,0.0742,-4.777,1,0.065,117.983,0.906,217707,4,33
+559,Easy Breezy (feat. Seo In Guk),Jueun,Easy Breezy,spotify:track:3MEX7HRrfgmSDSyj8MDFF5,2023,0.255,0.619,5,0.687,0.0,0.0797,-7.132,1,0.0563,79.943,0.591,183217,4,44
+560,Michael Jackson Remix (Feat. Jay Park),Royal 44,Michael Jackson Remix,spotify:track:74cH1EoFKnaVJmqdU5fLR5,2023,0.275,0.769,1,0.668,0.0,0.0917,-6.836,0,0.0734,104.933,0.803,238286,4,36
+561,향기 Scent,Baek A,향기 Scent,spotify:track:4yBD8speAePDXQgwnVKJS7,2023,0.929,0.476,2,0.192,8.47e-05,0.0833,-12.256,1,0.0311,129.725,0.255,275200,4,25
+562,1 On 1,YONKO,No Way / 1 On 1,spotify:track:2VVSZ6ezrDYVF2Pqw53v4E,2023,0.0937,0.383,7,0.641,0.000418,0.124,-6.941,0,0.0406,80.648,0.308,205192,5,17
+563,Journey,WOODZ,OO-LI,spotify:track:6dxgKYAH0TvoSb16xD30rD,2023,0.0352,0.468,7,0.659,0.000109,0.554,-4.774,1,0.0321,147.881,0.189,198440,4,59
+564,Sunshower,EPEX,EPEX 5th EP Album Prelude of Love Chapter 2. 'Growing Pains',spotify:track:3fcDHjyxOQoGV4UuMdagu0,2023,0.0725,0.754,11,0.878,0.0,0.0849,-1.917,0,0.0689,120.009,0.902,193600,4,56
+565,Stealer,THE BOYZ,"Stealer : The treasure keeper, Pt. 2 (Original Television Soundtrack)",spotify:track:6m9ZVtogbcJimt1GCcDCby,2023,0.0361,0.645,6,0.794,0.0,0.0672,-4.064,0,0.183,100.024,0.548,189926,4,43
+566,Seed,TAEYANG,Down to Earth,spotify:track:49eleLPCqnwgBSICKgcL0z,2023,0.454,0.395,2,0.33,0.0,0.11,-7.783,1,0.0358,89.851,0.215,255253,1,56
+567,Feeling Of You,Cho Yong Pil,Road to 20 - Prelude 2,spotify:track:0o7Sstc2f5O9tJPCxg5dbU,2023,0.0192,0.615,0,0.879,0.000118,0.197,-4.011,1,0.0268,129.986,0.771,225836,4,32
+568,PINK YOUR MOMENT,MINNIE,PINK YOUR MOMENT,spotify:track:0Z4g9s48umnsfDYGKj7jOT,2023,0.476,0.546,11,0.94,0.0,0.299,-3.697,0,0.377,179.986,0.236,177056,4,54
+569,"Falling in Love is like the Spring Rain, Parting is like the Winter Rain",Shin Ji Hoon,"Falling in Love is like the Spring Rain, Parting is like the Winter Rain",spotify:track:3ruIFwC4ZPInwM4e5CjsIy,2023,0.894,0.545,11,0.396,0.0,0.171,-7.42,1,0.0275,82.01,0.435,271413,4,37
+570,There Is No Hurry (feat. Hyesun),Coffeeboy,There Is No Hurry (feat. Hyesun),spotify:track:6uXQjDbLKBIMxI9UWHRFz9,2023,0.935,0.505,0,0.294,0.00508,0.102,-9.553,1,0.0301,124.131,0.332,213845,4,24
+571,everland,Isaac Hong,everland,spotify:track:1oiNwd37s9QV4uEuGSidUw,2023,0.73,0.686,8,0.243,2.16e-05,0.108,-9.173,1,0.0713,138.271,0.405,192335,3,26
+572,STAY THE NIGHT (Feat. DeVita) - L-like Remix,GRAY,Kick Off (Solabeam Remix Compilation),spotify:track:3odsdYZifYjfSOLb52NAkX,2023,0.0219,0.658,1,0.742,0.00293,0.177,-7.728,1,0.0416,97.001,0.901,243093,4,21
+574,RUN,Hyun shin young,RUN,spotify:track:68yHhyHwpcWaUi6D2dU86V,2023,0.786,0.416,5,0.494,0.0,0.0934,-5.767,0,0.0388,135.209,0.263,258787,4,19
+575,Rule Breaker (Feat. Coogie),GRAY,Rule Breaker,spotify:track:3XSWacmwEyiaqeyt8FpIhI,2023,0.135,0.595,2,0.928,1.01e-06,0.324,-2.286,0,0.0555,155.997,0.563,211538,4,37
+576,Hug Me,Chawoo,Hug Me,spotify:track:7wWGayXaXNhJoqGXKpZx8B,2023,0.257,0.851,0,0.771,3.88e-06,0.0851,-1.875,1,0.0348,99.927,0.674,137520,4,29
+577,Prada U,Yuzion,Prada U,spotify:track:26bf9b5tcXCeBX2wW1nbJV,2023,0.0371,0.574,5,0.638,0.00394,0.246,-8.244,0,0.0411,139.871,0.458,193714,4,29
+578,Milky Way,Moon,BEYOND THE MOON,spotify:track:0tcHOtvXH2UQfiQTlzyqdb,2023,0.181,0.752,0,0.783,3.41e-05,0.0813,-5.69,1,0.0509,100.015,0.703,266921,4,16
+579,Realize,Silica Gel,Machine Boy,spotify:track:1uAWKJLoEMoVEeFIH5FsVj,2023,0.00835,0.232,10,0.785,0.000336,0.381,-5.016,1,0.0849,92.022,0.476,263493,4,41
+580,I miss you,VROMANCE,I miss you,spotify:track:4eA4AWqsoL3In4pcXG0WQv,2023,0.508,0.422,4,0.576,0.0,0.068,-5.746,1,0.052,129.509,0.289,239960,4,25
+581,Heaven(2023),Lim Jae Hyun,"Beginning is the First Kiss (Original Television Soundtrack), Pt.1",spotify:track:6dy7pDUqBlNQqxYj5Kt8bT,2023,0.38,0.511,7,0.541,0.0,0.107,-5.018,1,0.0343,123.797,0.174,279733,4,47
+582,Seoul (feat. Deepflow),KOONTA,Seoul,spotify:track:28SXBsuqEIKkTm9VBKuXcQ,2023,0.0666,0.616,1,0.93,0.0,0.389,-2.954,1,0.248,89.934,0.933,209560,4,18
+583,SMASH! (feat. Skinny Brown),SINCE,SMASH! (feat. Skinny Brown),spotify:track:5krsjTkOuJQkxZXTdNtJ6f,2023,0.155,0.755,7,0.841,0.0,0.197,-3.538,0,0.0722,96.957,0.38,161913,4,42
+584,THROW A DICE,XODIAC,THROW A DICE,spotify:track:0IpOdu8u7wev6QegkGguEb,2023,0.00835,0.758,2,0.681,0.0,0.207,-5.835,0,0.0986,96.072,0.537,197640,4,53
+585,Timeless,Sam Ock,"Family, Pt. 2 (Original Television Soundtrack)",spotify:track:7zOXQsar2RbMvXQjtyVXmZ,2023,0.589,0.482,6,0.34,0.0,0.127,-9.0,1,0.0758,104.631,0.252,184240,4,31
+586,It's all you,Sonnet,The Secret Romantic Guesthouse Part.6,spotify:track:5eJRjdEW9K1K2XmrkS55ES,2023,0.792,0.482,6,0.565,0.0,0.135,-4.55,0,0.0353,133.656,0.385,268240,4,30
+587,Super,SEVENTEEN,SEVENTEEN 10th Mini Album 'FML',spotify:track:3AOf6YEpxQ894FmrwI9k96,2023,0.162,0.771,8,0.88,1.41e-06,0.167,-4.091,1,0.0857,137.018,0.347,200387,4,88
+588,Sunday Night Drive,Jay Park,Sunday Night Drive,spotify:track:4L4Kbg3jAEPJZbEovRyKeH,2023,0.185,0.731,5,0.667,0.0,0.106,-6.987,0,0.0596,76.026,0.739,129240,4,56
+589,What If It′s a Lie,Kim Sawol,"Palemoon, Pt. 3 (Original Television Soundtrack)",spotify:track:5V0oRJxUf3VRaRpoEC2PEW,2023,0.859,0.282,5,0.443,0.639,0.186,-8.55,1,0.0291,86.179,0.163,207419,4,20
+590,NEVERLAND,Tarin,NEVERLAND,spotify:track:45qXjqndfiKQVPUmU1iBJi,2023,0.318,0.737,8,0.532,0.0,0.0901,-6.963,1,0.0311,109.975,0.605,158843,4,27
+591,Special Request (Feat. Boni),Wilcox,Special Request (Feat. Boni),spotify:track:33PJUC4BJcLAcIjcvkaatv,2023,0.732,0.492,8,0.497,0.0,0.156,-6.547,1,0.251,167.652,0.609,212347,4,22
+592,어쩔 수 없고 끝날 수 없는 Lonesome By Eternal,toasterz,어쩔 수 없고 끝날 수 없는 Lonesome By Eternal,spotify:track:74MsN5JMOFfOUjPDUb9Pi9,2023,0.372,0.45,1,0.261,2.82e-06,0.115,-6.947,1,0.0296,139.964,0.178,209857,4,18
+593,wonder (feat. Claire Hau),COLL!N,wonder,spotify:track:36aupKqveMEfs0yCHMuR1n,2023,0.618,0.535,11,0.907,0.0,0.167,-2.141,0,0.0603,154.067,0.565,204867,4,16
+594,time goes backward,Private Story,time goes backward,spotify:track:3dNO8cJoX1thueOlTuTatc,2023,0.574,0.488,11,0.497,0.0,0.164,-3.809,1,0.0295,132.054,0.329,229053,4,16
+595,Same (feat. Hon Kim),THE PIECES,Same (feat. Hon Kim),spotify:track:5bvDIQusu53oTzWMqeI7Ln,2023,0.963,0.523,6,0.121,0.72,0.0971,-18.55,1,0.082,138.553,0.245,229500,5,14
+596,Wish!,LEVENUE,Wish!,spotify:track:6rqf1XFZjBGesjZ850msAm,2023,0.246,0.79,7,0.698,0.0,0.292,-5.109,1,0.0379,116.015,0.777,144080,4,20
+597,Turn Up,Churry,Break Away,spotify:track:7vz9bdxTS1aaqnJIgnGKCC,2023,0.0958,0.88,5,0.69,0.0,0.0684,-4.283,1,0.0611,90.033,0.899,128000,4,19
+598,Love or Obsession,Yohan.D,Love or Obsession,spotify:track:7KH0P144BbNo0gikZWNpLM,2023,0.238,0.668,11,0.751,0.000113,0.418,-4.296,1,0.11,89.9,0.587,151947,4,18
+599,TRAP,Yeona,TRAP,spotify:track:3njYLQE2auDWaOVDG6SNNL,2023,0.181,0.841,7,0.358,2.17e-06,0.101,-8.407,1,0.0689,89.971,0.172,231450,4,17
+600,Periwinkle Blue,Lucia,Periwinkle Blue,spotify:track:2zLXiVkZjUvr8LrTHZs3N4,2023,0.734,0.274,1,0.41,0.0,0.213,-6.652,1,0.038,83.702,0.202,280253,4,22
+601,Macarena,BLITZERS,Macarena,spotify:track:2uNUAaUtyzy75qSwiVAa5Q,2023,0.0501,0.854,1,0.868,1.86e-05,0.0723,-2.307,1,0.0552,107.99,0.594,189480,4,60
+602,march (Feat. Kid Milli),meenoi,march,spotify:track:7FXZnZNKrnCAA5z4mfSRKg,2023,0.64,0.786,1,0.673,0.0,0.114,-5.191,0,0.272,140.134,0.729,195536,4,46
+603,CLIONE (feat. Sion),MILLIC,CLIONE (feat. Sion),spotify:track:1GL49CfKeYdIRYRbxYyXZf,2023,0.642,0.645,0,0.302,0.000975,0.0985,-8.38,1,0.0424,135.035,0.0435,188718,4,37
+604,Harmony,DKZ,DKZ 1st Repackage Album ′HARMONY′,spotify:track:7kAaFc4e9S2EmyKqzw2aXB,2023,0.263,0.381,8,0.861,0.0,0.105,-5.122,1,0.165,194.262,0.464,210500,4,39
+605,lullaby,Kevin Oh,lullaby,spotify:track:5svaQXGGlWWzuJW4eGAN9p,2023,0.849,0.367,3,0.296,0.00387,0.143,-12.153,1,0.0331,77.978,0.269,194625,4,33
+606,Circus,Jae Ryung,Queen of masks (Original Television Soundtrack) Pt. 1,spotify:track:5xI9lMA3YDqRKUQ8vzAsE9,2023,0.708,0.623,3,0.465,0.0,0.181,-5.652,1,0.0982,134.925,0.3,183329,4,21
+607,Dream,OMEGA X,Dream,spotify:track:4fhlW2S6GLBVjjSHjUhCvt,2023,0.162,0.593,2,0.776,0.0,0.0693,-4.019,1,0.0458,90.025,0.427,231640,4,44
+608,"Shaggy Cut (Feat. Yoo Byungjae, Jonathan)",UV,Shaggy Cut,spotify:track:4brap89LunBrn34LdqBlmm,2023,0.01,0.766,9,0.922,0.0,0.0495,-2.645,1,0.0573,120.045,0.893,240500,4,19
+609,Squabble,BUMJIN,Squabble,spotify:track:3jbovg4cPfT30eeMmcyvUQ,2023,0.457,0.827,6,0.572,7.11e-06,0.0744,-4.201,0,0.0441,93.008,0.458,215347,4,18
+610,A curious feeling,SUNGHWI,A curious feeling,spotify:track:7Gj7jwY6viYB4xEh6p4wRj,2023,0.113,0.629,9,0.605,5.38e-06,0.0759,-5.801,1,0.0341,91.029,0.641,199451,4,16
+611,everyday with you,HAAN,an ordinary day,spotify:track:4nif4iRJnCz6Fifc84htLa,2023,0.139,0.702,5,0.618,0.0,0.133,-5.108,1,0.0272,107.975,0.549,136806,4,27
+612,Miracle,OH MY GIRL,Miracle,spotify:track:3L86yXiuz4BiV1x9MGGABc,2023,0.245,0.641,7,0.831,0.0,0.144,-2.48,1,0.0459,90.046,0.737,199720,4,46
+613,Haegeum,Agust D,D-DAY,spotify:track:4bjN59DRXFRxBE1g5ne6B1,2023,0.313,0.697,7,0.837,0.0,0.471,-2.651,1,0.304,85.097,0.831,168927,5,90
+614,The Night I Miss You,Kim Tae Woo,The Night I Miss You,spotify:track:6tUuOiVhMfbr6NuMo4SUL6,2023,0.404,0.806,7,0.468,0.0,0.096,-6.558,1,0.0271,108.996,0.719,275360,4,22
+615,Nolza,THE BOYZ,THE POYZ NOLZA,spotify:track:0wLGK1RAecE26M9gbavG9v,2023,0.118,0.894,0,0.694,0.0,0.0599,-4.27,1,0.0496,119.968,0.922,157462,4,50
+616,Free With You,MAKTUB,Libere Flore,spotify:track:3GzDLSVuLnP4MSAWO0kwS8,2023,0.465,0.548,6,0.514,0.0,0.0987,-4.851,1,0.0314,88.053,0.251,186019,4,36
+617,Groom Vroong,DAVII,Groom Vroong,spotify:track:0E6t8s86eSyOclTgmtdl1M,2023,0.395,0.671,9,0.876,0.0,0.125,-2.835,1,0.362,86.914,0.659,203776,4,18
+618,Angel (Feat. PL),NavyQuokka,Angel,spotify:track:5jdg9rY3ki7lCN3bu4BzsS,2023,0.464,0.673,5,0.516,0.0,0.0823,-5.17,1,0.0352,85.033,0.696,209960,4,30
+619,Everyday is you (feat. Jaehee),YEWON,Everyday is you,spotify:track:6qL7eEYcUUUBPi7xLr0gzZ,2023,0.587,0.425,9,0.411,0.0,0.287,-6.335,1,0.0337,123.253,0.348,220537,4,16
+620,Fall in LOVE,Park Sihwan,Fall in LOVE,spotify:track:6X900TdkAkOHEaziJEliQR,2023,0.484,0.586,4,0.611,0.0,0.0702,-4.974,1,0.0286,82.04,0.442,245293,4,25
+621,As much as I loved you,Cha ga eul,As much as I loved you,spotify:track:3eGK0gMmmumUC1RTcBKHcI,2023,0.552,0.564,9,0.563,0.0,0.244,-5.884,1,0.0493,131.881,0.257,201049,4,26
+622,For my little one (with Jeon sohyeon),saevom,For my little one,spotify:track:6oDLxxBH9gOUiwQxoP0qlh,2023,0.873,0.527,1,0.265,0.0,0.144,-8.573,1,0.0355,134.873,0.395,198088,4,22
+623,Faded Memory,The Stray,"Daylily, Pt. 4 (Original WebDrama Soundtrack)",spotify:track:0zjwHLeSkLxisoO9X9W192,2023,0.884,0.437,0,0.335,0.0,0.144,-4.99,1,0.0321,131.618,0.347,211387,4,31
+624,"24K (feat. Kvsh, DUT2)",blienty,RESONANCE,spotify:track:2wFBG0ZqKrsHAtPms5s1zU,2023,0.0176,0.51,7,0.846,3.02e-06,0.191,-5.517,0,0.0345,118.949,0.463,163163,4,40
+625,Morning Coffee,Odett,Morning Coffee,spotify:track:1KH1fP5NAN04rOqToDCewI,2023,0.385,0.811,5,0.541,0.0,0.321,-6.731,0,0.173,97.134,0.493,195307,4,40
+626,Even if it rains again,성유진,Even if it rains again,spotify:track:3NYhHnmZGKX1wzeBwjeNfK,2023,0.318,0.467,0,0.497,0.0,0.116,-4.343,0,0.0284,135.45,0.411,241507,4,24
+627,About how to love me,Collective Arts,STORY#25,spotify:track:4UY5RAuSkHIGyKDoN0F4tw,2023,0.878,0.611,1,0.14,5.47e-06,0.109,-10.039,1,0.0328,131.878,0.157,276636,4,17
+628,Eyes On You,LUDA,"My 20th Twenty (Original Webdrama Sountrack, Pt. 2)",spotify:track:1cGWedvxCeuhbyeIIAj3ID,2023,0.533,0.521,8,0.706,9.82e-05,0.119,-6.272,1,0.0327,80.098,0.399,224916,4,23
+629,Daddy's Daughter,Hwang Woo Lim,Daddy's Daughter,spotify:track:4uFftok6WkuWWQDLN9d0RU,2023,0.548,0.405,6,0.315,0.0,0.106,-6.507,0,0.029,139.618,0.136,236960,4,18
+630,More than the sun,U-Rim,More than the sun,spotify:track:3dNov3aTNmaY5dcHJptcC7,2023,0.641,0.532,2,0.588,0.0,0.369,-4.737,1,0.0666,76.653,0.689,209933,4,18
+631,Shine Like a Star,Sondia,Doctor Cha (Original Television Soundtrack) Pt. 2,spotify:track:3wd5NszvPwHQs3iMH2GSmB,2023,0.241,0.715,0,0.919,0.0,0.085,-2.004,1,0.0567,139.071,0.962,163213,4,46
+632,When I Close My Eyes,KANGTA,When I Close My Eyes - SM STATION,spotify:track:15Q5vl5DsW913bGuVEsatQ,2023,0.769,0.537,6,0.355,0.0,0.0926,-6.514,1,0.0302,81.943,0.329,222147,4,28
+633,Slow Step (Feat. Skinny Brown),1DAY,Slow Step (Feat. Skinny Brown),spotify:track:6rSFX5NHPz9m4ma0c8crhZ,2023,0.305,0.71,7,0.735,0.0,0.132,-5.676,1,0.208,163.033,0.819,166576,4,24
+634,Rules (Are Meant to Break),League of Legends,Rules (Are Meant to Break),spotify:track:0rZiFIOOnem9NmdzFEJBmR,2023,0.0528,0.459,9,0.887,0.0,0.0945,-3.424,1,0.275,136.268,0.247,181471,4,59
+635,As I gaze into the Han River,JEON CHUL MIN,As I gaze into the Han River,spotify:track:0LRrE3NbzD7OtcPGYahZfO,2023,0.762,0.421,2,0.482,0.0,0.156,-3.793,1,0.0314,132.321,0.316,206245,4,14
+636,"Catch The Tail (Feat. Ash-B, PAXXWORD, Mckdaddy) - Remix",Luci Gang,"Catch The Tail (Feat. Ash-B, PAXXWORD, Mckdaddy) [Remix]",spotify:track:01fnDMLeweIaMo7wHVabJC,2023,0.0249,0.927,1,0.755,0.0,0.0673,-4.031,1,0.073,109.963,0.775,168000,4,17
+637,Don't Show Off,Sook Haeng,La Diva,spotify:track:7MiN3zx6KRRTAJb6k4j2z4,2023,0.372,0.721,7,0.71,0.0,0.23,-5.73,0,0.0629,125.016,0.508,203840,4,13
+638,Super Chic,New Hope Club,Super Chic,spotify:track:39K97j8UZKiQWXDTrUybCL,2023,0.208,0.648,11,0.735,0.0,0.343,-3.468,0,0.146,89.76,0.858,167547,4,57
+639,ETA (with iiso),ROH YUNHA,ETA,spotify:track:3DRZRLXhMkJSgwN61FUvdV,2023,0.0128,0.91,2,0.732,4.68e-06,0.1,-4.183,1,0.22,130.029,0.646,188107,4,38
+640,UFO (Feat. VINXEN),BANGJA,IN THE GREEN,spotify:track:0qaYnA64LRlBgbg7mmkQkB,2023,0.311,0.489,10,0.81,1.69e-05,0.126,-4.974,1,0.0833,172.045,0.873,142565,4,25
+641,Doodle,Sang hyun,Doodle,spotify:track:1pQTQbUtLeIfdOeU8sPSn3,2023,0.211,0.536,11,0.451,0.0,0.0753,-10.697,1,0.18,79.204,0.158,216266,4,14
+642,Bittersweet Memories (With Kim Tae Won),TANAKA,Bittersweet Memories,spotify:track:5a8ee3wVwFyhd5bGoQ7Ow8,2023,0.652,0.485,11,0.402,0.0,0.123,-5.425,1,0.0258,75.83,0.142,252053,4,23
+643,Love In Spring (Feat. LOVEY),MIND U,Starry Nignt In Spring,spotify:track:5utuBmqdrzoqzEQIdskgiz,2023,0.424,0.677,0,0.444,0.0,0.161,-6.631,1,0.0293,90.804,0.603,238147,4,18
+644,Prime Time (prod. Ryan S. Jhun),VANNER,PEAK TIME - <FINAL ROUND>,spotify:track:0ykp0WfkApTfQHH3aqGIBk,2023,0.0156,0.712,7,0.809,0.0,0.244,-4.61,1,0.211,106.996,0.698,210173,4,40
+645,Jelly Pop,BOYS PLANET,BOYS PLANET - FINAL TOP9 BATTLE,spotify:track:6fJW5vgrTBrKksFKApn7v2,2023,0.085,0.771,3,0.882,0.0,0.318,-1.837,0,0.074,120.995,0.871,203253,4,73
+646,Let's Say Goodbye,Parc Jae Jung,Alone,spotify:track:2KNEK9rGKQKKNE6FTt8PvQ,2023,0.74,0.49,5,0.489,0.0,0.169,-5.091,1,0.0271,135.868,0.218,243853,4,45
+647,"Even if you leave,",HANRORO,"Even if you leave,",spotify:track:6GIzYEAEW3qnHETNyjKksV,2023,0.283,0.38,5,0.678,3.99e-06,0.133,-4.937,1,0.0327,161.714,0.114,272000,4,33
+648,Grabby Girl,Ryu Su Jeong,Archive of Emotions,spotify:track:5OmserAorDIC868Ku4xr0Z,2023,0.611,0.703,3,0.54,7.62e-05,0.114,-6.526,0,0.153,110.879,0.341,153147,4,31
+649,TIME MACHINE (2100),GIUK,Psycho Xybernetics : TURN OVER,spotify:track:0YdTWKY4AOJjoFRzvCv8w5,2023,0.0107,0.531,0,0.932,0.0,0.135,-3.164,1,0.088,159.889,0.523,197960,4,39
+650,Predator,LEE GI KWANG,Predator,spotify:track:5RaEgSov5mWUjLXDTDvJwM,2023,0.0112,0.716,8,0.876,0.000144,0.231,-3.538,0,0.0431,109.927,0.613,183187,4,51
+651,How can I forget,Yeoeun,How can I forget,spotify:track:29itoIoY6ZwYO6cytDxNG4,2023,0.871,0.402,0,0.551,0.0,0.137,-5.022,1,0.0301,131.784,0.212,225280,4,18
+652,Time,pigfrog,Time,spotify:track:1X81ClUJ0nm3y9uPVYAa05,2023,0.235,0.663,8,0.61,0.749,0.125,-8.054,1,0.0352,84.008,0.645,197321,4,25
+653,sunny days,wave to earth,0.1 flaws and all.,spotify:track:4U9teFThcaHZz386DQM6FY,2023,0.75,0.553,7,0.466,0.000664,0.111,-8.452,1,0.0288,158.037,0.377,248746,4,62
+654,Miss Those Days,ACOURVE,"Love Interference 2023 (Original Television Soundtrack), Pt. 11",spotify:track:0e8555M0oh1aaHkL0wKPrQ,2023,0.683,0.356,4,0.557,0.0,0.144,-4.928,1,0.0303,151.8,0.286,198417,4,25
+655,The one who wins,Sojeong,"True to Love, Pt. 3 (Original Soundtrack)",spotify:track:0UJDW0t4KPTvCy5E4wG0Mf,2023,0.26,0.672,7,0.572,0.0,0.177,-6.187,1,0.0304,99.966,0.18,233125,4,44
+656,Play,Taylor,"Stealer : The treasure keeper, Pt. 1 (Original Television Soundtrack)",spotify:track:2eOKRPK5ShMn9B4a0XeZnl,2023,0.532,0.608,7,0.878,0.0,0.373,-0.929,1,0.0542,105.96,0.812,163014,4,17
+657,SEONGSU FREESTYLE,UNDER SEONGSU BRIDGE,SEONGSU FREESTYLE,spotify:track:4a2vlQKgijgytFMuTGsWiF,2023,0.0158,0.63,1,0.508,0.0,0.112,-5.619,1,0.318,125.11,0.244,181061,4,25

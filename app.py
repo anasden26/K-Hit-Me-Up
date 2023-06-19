@@ -99,17 +99,16 @@ def popularity_picked():
         state = state
     )
 
-@app.route("/test")
-def test():
-    return render_template("test.html")
+@app.route("/artist")
+def artist():
+    return render_template("artist.html")
 
-@app.route("/result", methods=['POST'])
-def result():
+@app.route("/artist-result", methods=['POST'])
+def artistresult():
     name = request.form['kpopartist']
     name = name.upper()
     data_edited = pd.read_csv('spotify_data_edited_with_artist.csv')
     data_edited['artist'] = data_edited['artist'].str.upper()
-    # data_edited['artist'] = data_edited['artist'].str.replace('\W', '')
     data_edited_2 = data_edited[data_edited['artist']==name]
     if(len(data_edited_2)==0):
         return render_template(
@@ -119,8 +118,28 @@ def result():
     else:
         result = get_data(data_edited_2)
         return render_template(
-            "result.html", 
+            "artist-result.html", 
             result_positive = result[0],
             result = result[1],
             name = name
         )
+
+@app.route("/artist2023")
+def artist2023():
+    data_edited = pd.read_csv('spotify_kpop_2023_edited.csv').sort_values(by=['song_popularity'], ascending=False, ignore_index=True)
+    raw_data = pd.read_csv('spotify_kpop_2023.csv').sort_values(by=['song_popularity'], ascending=False, ignore_index=True)
+    data_edited.drop(["artist", "song_popularity", "popularity", "time_signature_1.0"],axis=1,inplace=True)
+    predicted = model.predict(data_edited)
+    total = len(predicted)
+    artist = raw_data['artist']
+    title = raw_data['title']
+    popularity = raw_data['song_popularity']
+    predicted = ["Yes" if value == 1 else "No" for value in predicted]
+    return render_template(
+        "result.html",
+        length = total,
+        artist = artist,
+        title = title,
+        song_popularity = popularity,
+        popular = predicted
+    )

@@ -44,50 +44,40 @@
     </section>
     <!-- END NAVBAR -->
 
-    <section class="section1 d-flex">
+    <section class="section1 d-flex align-items-center">
         <div class="container">
-            <div class="column text-center px-5 mx-5 pick">
-              <h4>
-                  Which Year?
-              </h4>
-              <form action="/popularity-picked", method="get, post" class="pb-4">
-                  <select name="year">
-                    {%for o in data%}
-                        <option value="{{ o.year }}"{% if o.year == state.data %} selected{% endif %}>
-                          {{ o.year }}
-                        </option>
-                    {%endfor%}
-                  </select>
-                  <br><br>
-                  <div class="container2">
-                    <div class="button2">
-                      <div class="button__line"></div>
-                      <div class="button__line"></div>
-                      <button type="submit" class="button__text">Submit</button>
-                      <div class="button__drow2-1"></div>
-                      <div class="button__drow2-2"></div>
-                    </div>
+            <div class="column text-center px-5 mx-5">
+              <div class="row">
+                <div class="col-2"></div>
+                <div class="col-8">
+                  <h1>{{ name }}</h1>
+                  <p class="pt-3 results">
+                    {{ name }} has a total of {{ result }} top songs and overall of {{ result_positive }} 
+                    popular songs over the past 12 years (2011-2022).
+                  </p>
+                </div>
+                <div class="col-2"></div>
+              </div>
+              <div class="row pt-5">
+                <div class="col col-lg-6 col-button">
+                  <a href="{{ url_for('home') }}" class="button">
+                    <div class="button__line"></div>
+                    <div class="button__line"></div>
+                    <span class="button__text">Back To Home</span>
+                    <div class="button__drow1"></div>
+                    <div class="button__drow2"></div>
+                  </a>
                   </div>
-              </form>
-              <h3>Year {{ index }}</h3>
-                <table>
-                  <thead>
-                    <tr>
-                      <th class="text-center">No</th>
-                      <th class="text-center">Song Title</th>
-                      <th class="text-center">Artist</th>
-                    </tr>
-                  </thead>
-                  <tbody>
-                    {% for o in range(0, length) %}
-                      <tr>
-                        <td>{{ o+1 }}</td>
-                        <td>{{ title[o] }}</td>
-                        <td>{{ artist[o] }}</td>
-                      </tr>
-                    {% endfor %}
-                  </tbody>
-                </table>
+                  <div class="col col-lg-6 col-button">
+                    <a href="{{ url_for('artist') }}" class="button">
+                      <div class="button__line"></div>
+                      <div class="button__line"></div>
+                      <span class="button__text">Try Again</span>
+                      <div class="button__drow1"></div>
+                      <div class="button__drow2"></div>
+                    </a>
+                  </div>
+                </div>
             </div>
         </div>
     </section>

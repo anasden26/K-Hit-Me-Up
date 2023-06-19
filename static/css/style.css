@@ -33,6 +33,9 @@ body {
   #nav .navbar-brand img {
     width: 110px;
   }
+  .table-result-section {
+    padding-top: 1800px;
+  }
 }
 @media (max-width: 1200px) {
   #nav .navbar-brand img {
@@ -141,8 +144,9 @@ body {
   height: 100vh;
 }
 
-.pick {
-  padding-top: 100px;
+.pick, .table-result-section {
+  padding-top: 120px;
+  padding-bottom: 30px;
 }
 
 table {
@@ -184,6 +188,15 @@ table{
   flex-direction : column ;
   justify-content : center ;
   align-items : center ;
+}
+
+@media (max-width: 992px) {
+  .pick, .table-result-section {
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+  }
 }
 
 @media (max-width: 768px) {
